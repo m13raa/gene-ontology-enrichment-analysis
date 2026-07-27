@@ -16,3 +16,22 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Conda
+.env
+.venv
+*.conda
+
+# Raw datasets
+data/raw/
+
+# Processed datasets
+data/processed/
+
+# Results
+results/
+
+# Figures
+figures/*.png
+figures/*.pdf
+figures/*.svg
