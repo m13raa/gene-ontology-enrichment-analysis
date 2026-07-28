@@ -16,9 +16,9 @@ print(homo_sapiens_gene2go.shape)
 # print(homo_sapiens_gene2go ["#tax_id"].unique()) Check the previous filtering
 #How many human genes have GO annotations within the gene2go dataframe?
 print(homo_sapiens_gene2go["GeneID"].nunique())
-#Create a dictionary mapping GeneIDs to their GO annotations
-gene_2_go_ditionary=(homo_sapiens_gene2go.groupby("GeneID")["GO_ID"].apply(list).to_dict())
-print(len(gene_2_go_ditionary))
-print(list(gene_2_go_ditionary.items())[:5])
+#Create GO annotation dictionary; map GeneIDs to their GO annotations
+gene_2_go_dictionary=(homo_sapiens_gene2go.groupby("GeneID")["GO_ID"].apply(list).to_dict())
+print(len(gene_2_go_dictionary))
+print(list(gene_2_go_dictionary.items())[:5])
 #Clean up the GO terms, repeated GO ID's not necessary as they prove the same gene-to-go connection through different forms of evidence
 gene_2_go_ditionary=(homo_sapiens_gene2go.groupby("GeneID")["GO_ID"].apply(lambda x:sorted(set(x)))).to_dict()
