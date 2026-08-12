@@ -24,6 +24,3 @@ for child in go_term.children:
     print(f"  - {child.id}: {child.name}")
 print("Depth:", go_term.depth)
 print("Level:", go_term.level)
-
-
-
