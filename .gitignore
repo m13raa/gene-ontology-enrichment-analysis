@@ -28,10 +28,8 @@ data/raw/
 # Processed datasets
 data/processed/
 
-# Results
-results/
-
-# Figures
-figures/*.png
-figures/*.pdf
-figures/*.svg
+# Results & Figures
+# results/
+# figures/*.png
+# figures/*.pdf
+# figures/*.svg

@@ -1,0 +1,69 @@
+GO_ID,Python_Name,Namespace,Enrichment,Study_Count,Study_Total,Population_Count,Population_Total,P_Value,Python_FDR,R_Name,R_Adjusted_P
+GO:0071479,cellular response to ionizing radiation,BP,e,4,5,62,20362,3.886422959336278e-10,8.099694089552738e-06,cellular response to ionizing radiation,3.70774006897567e-07
+GO:0009314,response to radiation,BP,e,5,5,354,20362,1.5445676288401641e-09,1.609516697632893e-05,response to radiation,8.70475746599325e-07
+GO:0010212,response to ionizing radiation,BP,e,4,5,115,20362,4.80636675526483e-09,2.8096436702778025e-05,response to ionizing radiation,1.34326035331304e-06
+GO:1901987,regulation of cell cycle phase transition,BP,e,5,5,454,20362,5.3925313953798805e-09,2.8096436702778025e-05,regulation of cell cycle phase transition,8.70475746599325e-07
+GO:0071478,cellular response to radiation,BP,e,4,5,151,20362,1.4448289080183356e-08,6.022335854402027e-05,cellular response to radiation,2.78220382704736e-06
+GO:0104004,cellular response to environmental stimulus,BP,e,4,5,303,20362,2.3758583072092058e-07,0.0004726461822578,cellular response to environmental stimulus,1.74409304240718e-05
+GO:0071214,cellular response to abiotic stimulus,BP,e,4,5,303,20362,2.3758583072092058e-07,0.0004726461822578,cellular response to abiotic stimulus,1.74409304240718e-05
+GO:0044389,ubiquitin-like protein ligase binding,MF,e,4,5,311,20362,2.637401918778388e-07,0.0004726461822578,ubiquitin-like protein ligase binding,2.06767908340682e-05
+GO:0044773,mitotic DNA damage checkpoint signaling,BP,e,3,5,64,20362,2.9482272296682433e-07,0.0004726461822578,mitotic DNA damage checkpoint signaling,1.74409304240718e-05
+GO:0031625,ubiquitin protein ligase binding,MF,e,4,5,291,20362,2.0205598220567538e-07,0.0004726461822578,ubiquitin protein ligase binding,2.06767908340682e-05
+GO:0048145,regulation of fibroblast proliferation,BP,e,3,5,63,20362,2.8102365573956456e-07,0.0004726461822578,regulation of fibroblast proliferation,2.74217534107074e-05
+GO:0044774,mitotic DNA integrity checkpoint signaling,BP,e,3,5,67,20362,3.3891019486401e-07,0.000480855023759,mitotic DNA integrity checkpoint signaling,1.74409304240718e-05
+GO:1901990,regulation of mitotic cell cycle phase transition,BP,e,4,5,346,20362,4.04285122603544e-07,0.0005266066400112,regulation of mitotic cell cycle phase transition,1.74409304240718e-05
+GO:0001558,regulation of cell growth,BP,e,4,5,368,20362,5.174246281537743e-07,0.0006343321573736,regulation of cell growth,2.68661711231424e-05
+GO:0000077,DNA damage checkpoint signaling,BP,e,3,5,92,20362,8.86792883468673e-07,0.0010267583602428,DNA damage checkpoint signaling,8.70475746599325e-07
+GO:0007093,mitotic cell cycle checkpoint signaling,BP,e,3,5,110,20362,1.5220029405889736e-06,0.0013133360573216,mitotic cell cycle checkpoint signaling,6.3266431337226e-05
+GO:0051052,regulation of DNA metabolic process,BP,e,4,5,480,20362,1.4967138767475438e-06,0.0013133360573216,regulation of DNA metabolic process,4.49751169498874e-05
+GO:1902749,regulation of cell cycle G2/M phase transition,BP,e,3,5,108,20362,1.4399591840612264e-06,0.0013133360573216,regulation of cell cycle G2/M phase transition,4.68713502983656e-05
+GO:0031570,DNA integrity checkpoint signaling,BP,e,3,5,103,20362,1.2478319789873894e-06,0.0013133360573216,DNA integrity checkpoint signaling,8.70475746599325e-07
+GO:0009411,response to UV,BP,e,3,5,129,20362,2.4613056054169142e-06,0.0018998544489812,response to UV,1.73169606378476e-06
+GO:0042770,signal transduction in response to DNA damage,BP,e,3,5,138,20362,3.0158616797158667e-06,0.0022447704738199,signal transduction in response to DNA damage,3.27120557136038e-06
+GO:2000377,regulation of reactive oxygen species metabolic process,BP,e,3,5,140,20362,3.1494192828840933e-06,0.0022633464577443,regulation of reactive oxygen species metabolic process,8.27307663537158e-05
+GO:0000075,cell cycle checkpoint signaling,BP,e,3,5,147,20362,3.647721536290027e-06,0.0024479597851472,cell cycle checkpoint signaling,2.78220382704736e-06
+GO:0097193,intrinsic apoptotic signaling pathway,BP,e,3,5,148,20362,3.722915957278216e-06,0.0024479597851472,intrinsic apoptotic signaling pathway,1.74409304240718e-05
+GO:0090399,replicative senescence,BP,e,2,5,13,20362,3.758683034629448e-06,0.0024479597851472,replicative senescence,0.0001119243386216
+GO:0030308,negative regulation of cell growth,BP,e,3,5,152,20362,4.0339868427606535e-06,0.0025476460542416,negative regulation of cell growth,0.0001119243386216
+GO:0000800,lateral element,CC,e,2,5,14,20362,4.384699331345362e-06,0.0026109005361305,lateral element,0.0002847370369511
+GO:0031571,mitotic G1 DNA damage checkpoint signaling,BP,e,2,5,14,20362,4.384699331345362e-06,0.0026109005361305,mitotic G1 DNA damage checkpoint signaling,0.0001059941199107
+GO:0044819,mitotic G1/S transition checkpoint signaling,BP,e,2,5,15,20362,5.058771331593334e-06,0.0029082832071669,mitotic G1/S transition checkpoint signaling,0.0001119243386216
+GO:1901991,negative regulation of mitotic cell cycle phase transition,BP,e,3,5,165,20362,5.163210914311982e-06,0.0029082832071669,negative regulation of mitotic cell cycle phase transition,0.0001457305490322
+GO:2000045,regulation of G1/S transition of mitotic cell cycle,BP,e,3,5,176,20362,6.268309249364376e-06,0.0034378377122632,regulation of G1/S transition of mitotic cell cycle,0.0001168508000922
+GO:0045926,negative regulation of growth,BP,e,3,5,190,20362,7.88810964484156e-06,0.0042152844386703,negative regulation of growth,0.0002238666193875
+GO:1902806,regulation of cell cycle G1/S phase transition,BP,e,3,5,204,20362,9.763966383926549e-06,0.0049631908148149,regulation of cell cycle G1/S phase transition,0.0001698142487937
+GO:0045930,negative regulation of mitotic cell cycle,BP,e,3,5,208,20362,1.034953193563383e-05,0.0051355855969177,negative regulation of mitotic cell cycle,0.000256843134653
+GO:2000001,regulation of DNA damage checkpoint,BP,e,2,5,24,20362,1.3285585499835576e-05,0.0062130826370799,regulation of DNA damage checkpoint,0.0001868470504232
+GO:1901988,negative regulation of cell cycle phase transition,BP,e,3,5,228,20362,1.362837958333854e-05,0.0062130826370799,negative regulation of cell cycle phase transition,9.26526023225375e-06
+GO:1990391,DNA repair complex,CC,e,2,5,27,20362,1.6890817512080057e-05,0.0073337818285262,DNA repair complex,0.0003427650873535
+GO:0009416,response to light stimulus,BP,e,3,5,254,20362,1.883176558900939e-05,0.0080096495232764,response to light stimulus,1.74409304240718e-05
+GO:2000279,negative regulation of DNA biosynthetic process,BP,e,2,5,29,20362,1.953368617951582e-05,0.0081420310733457,negative regulation of DNA biosynthetic process,0.0003002327033039
+GO:0051054,positive regulation of DNA metabolic process,BP,e,3,5,265,20362,2.1378966110775237e-05,0.0087364516218562,positive regulation of DNA metabolic process,0.0003635748296985
+GO:0010948,negative regulation of cell cycle process,BP,e,3,5,274,20362,2.3625043511069925e-05,0.0094686448425809,negative regulation of cell cycle process,1.57775879504088e-05
+GO:0007095,mitotic G2 DNA damage checkpoint signaling,BP,e,2,5,33,20362,2.539342732857345e-05,0.0099853663953735,mitotic G2 DNA damage checkpoint signaling,0.0003858789692833
+GO:0030330,"DNA damage response, signal transduction by p53 class mediator",BP,e,2,5,39,20362,3.5616350301649896e-05,0.0134960064843033,"DNA damage response, signal transduction by p53 class mediator",2.11567092241395e-05
+GO:0045740,positive regulation of DNA replication,BP,e,2,5,40,20362,3.748720890787739e-05,0.013706507383317,positive regulation of DNA replication,0.0005182482379981
+GO:0048146,positive regulation of fibroblast proliferation,BP,e,2,5,40,20362,3.748720890787739e-05,0.013706507383317,positive regulation of fibroblast proliferation,0.0008719329602703
+GO:0045786,negative regulation of cell cycle,BP,e,3,5,346,20362,4.7425912991730856e-05,0.0170414388389769,negative regulation of cell cycle,2.41874237394443e-05
+GO:0090398,cellular senescence,BP,e,2,5,50,20362,5.88162742780588e-05,0.0207761012242207,cellular senescence,4.09303645622793e-05
+GO:0044818,mitotic G2/M transition checkpoint,BP,e,2,5,51,20362,6.121091799112507e-05,0.0212616123642172,mitotic G2/M transition checkpoint,0.0008064773657153
+GO:1902895,positive regulation of miRNA transcription,BP,e,2,5,56,20362,7.389683591129369e-05,0.0252472779873323,positive regulation of miRNA transcription,0.0008543732365106
+GO:0006289,nucleotide-excision repair,BP,e,2,5,58,20362,7.930353278202677e-05,0.0262343639160352,nucleotide-excision repair,0.0016220276965101
+GO:1901976,regulation of cell cycle checkpoint,BP,e,2,5,58,20362,7.930353278202677e-05,0.0262343639160352,regulation of cell cycle checkpoint,0.0006462161394429
+GO:0000152,nuclear ubiquitin ligase complex,CC,e,2,5,61,20362,8.7769293096654e-05,0.028141535960421,nuclear ubiquitin ligase complex,0.0005844071239481
+GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage,BP,e,2,5,62,20362,9.068601415528948e-05,0.0282087644926923,intrinsic apoptotic signaling pathway in response to DNA damage,8.70475746599325e-07
+GO:2000630,positive regulation of miRNA metabolic process,BP,e,2,5,65,20362,9.97203829217433e-05,0.0305628308892948,positive regulation of miRNA metabolic process,0.0011019946819922
+GO:0007265,Ras protein signal transduction,BP,e,2,5,67,20362,0.0001059799925641,0.0315532717861249,Ras protein signal transduction,0.002924370190797
+GO:2000134,negative regulation of G1/S transition of mitotic cell cycle,BP,e,2,5,67,20362,0.0001059799925641,0.0315532717861249,negative regulation of G1/S transition of mitotic cell cycle,0.001339490226684
+GO:2000379,positive regulation of reactive oxygen species metabolic process,BP,e,2,5,68,20362,0.0001091807642774,0.0320483987085431,positive regulation of reactive oxygen species metabolic process,0.001278134559498
+GO:0010972,negative regulation of G2/M transition of mitotic cell cycle,BP,e,2,5,70,20362,0.0001157241710972,0.0334973256921832,negative regulation of G2/M transition of mitotic cell cycle,0.0013323641646446
+GO:0002039,p53 binding,MF,e,2,5,71,20362,0.0001190667780533,0.0339927496083676,p53 binding,0.0044386915427262
+GO:1902750,negative regulation of cell cycle G2/M phase transition,BP,e,2,5,72,20362,0.000122456635277,0.0344880910244555,negative regulation of cell cycle G2/M phase transition,0.001339490226684
+GO:0072331,signal transduction by p53 class mediator,BP,e,2,5,74,20362,0.0001293780442494,0.035951570936038,signal transduction by p53 class mediator,0.0001493848995772
+GO:1902807,negative regulation of cell cycle G1/S phase transition,BP,e,2,5,75,20362,0.0001329095678645,0.0359736143359175,negative regulation of cell cycle G1/S phase transition,0.0015117582019726
+GO:1902893,regulation of miRNA transcription,BP,e,2,5,76,20362,0.00013648828548,0.0360069918695026,regulation of miRNA transcription,0.001339490226684
+GO:0034644,cellular response to UV,BP,e,2,5,77,20362,0.0001401141830344,0.0360508603533445,cellular response to UV,0.0018117573385322
+GO:2000278,regulation of DNA biosynthetic process,BP,e,2,5,82,20362,0.0001589508778797,0.0394368481653732,regulation of DNA biosynthetic process,0.0016042804666549
+GO:0070063,RNA polymerase binding,MF,e,2,5,82,20362,0.0001589508778797,0.0394368481653732,RNA polymerase binding,0.0335613342686062
+GO:2000628,regulation of miRNA metabolic process,BP,e,2,5,89,20362,0.0001872998733502,0.0443581438692375,regulation of miRNA metabolic process,0.0017161144042763
+GO:0010389,regulation of G2/M transition of mitotic cell cycle,BP,e,2,5,95,20362,0.0002134320908406,0.0499790809574138,regulation of G2/M transition of mitotic cell cycle,0.0024831053220655

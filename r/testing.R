@@ -1,6 +1,0 @@
-print("Testing R environment")
-library(clusterProfiler)
-library(org.Hs.eg.db)
-library(enrichplot)
-library(ggplot2)
-print("All packages are installed & loaded, R environment is wortking")
