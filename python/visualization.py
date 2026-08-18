@@ -2,9 +2,12 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-results = pd.read_csv("results/goatools_enrichment_results.csv")
+#DATASET = "demo" # to run the demo
+DATASET = "GSE103001" # to run the analysis
+
+results = pd.read_csv(f"results/{DATASET}/goatools_enrichment_results.csv")
 print(results.head())
-print("\nShape:", results.shape)
+print("\nShape:", results.shape) 
 
 #log the FDR values for better visualization
 results["neg_log10_FDR"] = -np.log10(results["FDR"])
@@ -30,7 +33,7 @@ plt.gca().invert_yaxis()  # Invert y-axis to have the most significant term at t
 plt.tight_layout() #Don't have the labels be cut off
 
 #save figure before plotting
-plt.savefig("figures/top_10_go_terms_enrichment.png", dpi=300, bbox_inches='tight')
+plt.savefig(f"figures/{DATASET}/top_10_go_terms_enrichment.png", dpi=300, bbox_inches='tight')
 
 plt.show()
 
@@ -56,6 +59,6 @@ plt.gca().invert_yaxis()  # Invert y-axis to have the most enriched term at the 
 plt.tight_layout() #Don't have the labels be cut off")")
 
 #save figure before plotting
-plt.savefig("figures/top_10_go_terms_fold_enrichment.png", dpi=300, bbox_inches='tight')
+plt.savefig(f"figures/{DATASET}/top_10_go_terms_fold_enrichment.png", dpi=300, bbox_inches='tight')
 
 plt.show()

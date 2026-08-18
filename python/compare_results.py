@@ -1,9 +1,12 @@
 import pandas as pd
 
+#DATASET = "demo" # to run the demo
+DATASET = "GSE103001" #to run the analysis
+
 # Load GOATools results
-python_results = pd.read_csv("results/goatools_enrichment_results.csv")
+python_results = pd.read_csv(f"results/{DATASET}/goatools_enrichment_results.csv")
 # Load clusterProfiler results
-r_results = pd.read_csv("results/R_GO_enrichment.csv")
+r_results = pd.read_csv(f"results/{DATASET}/R_GO_enrichment.csv")
 # Print shape of results
 print("GOATools results:", python_results.shape)
 print("clusterProfiler results:", r_results.shape)
@@ -80,16 +83,16 @@ comparison = comparison.sort_values(
     "Python_FDR"
 )
 comparison.to_csv(
-    "results/python_vs_r_shared_go_terms.csv",
+    f"results/{DATASET}/python_vs_r_shared_go_terms.csv",
     index=False
 )
 print("\nShared comparison table saved.")
 
 #Save GO terms specific to the package
 python_only_df = python_results[python_results["GO_ID"].isin(python_only)]
-python_only_df.to_csv("results/goatools_only_terms.csv", index=False)
+python_only_df.to_csv(f"results/{DATASET}/goatools_only_terms.csv", index=False)
 r_only_df = r_results[r_results["ID"].isin(r_only)]
-r_only_df.to_csv("results/clusterProfiler_only_terms.csv", index=False)
+r_only_df.to_csv(f"results/{DATASET}/clusterProfiler_only_terms.csv", index=False)
 
 #Create a comparison visual
 import matplotlib.pyplot as plt
@@ -111,7 +114,7 @@ plt.title("Comparison of Significant GO Terms")
 plt.tight_layout()
 
 plt.savefig(
-    "figures/python_vs_r_go_term_comparison.png", 
+    f"figures/{DATASET}/python_vs_r_go_term_comparison.png", 
     dpi=300,
     bbox_inches="tight"
 )

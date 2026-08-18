@@ -1,16 +1,18 @@
 import pandas as pd 
 from goatools.obo_parser import GODag
 from goatools.go_enrichment import GOEnrichmentStudy
+# DATASET = "demo" #to run the demo 
+DATASET = "GSE103001" #to run the real analysis
 
 # Load the study genes
-with open("data/processed/study_genes.txt") as f:
+with open(f"data/processed/{DATASET}/study_genes.txt") as f:
     study_genes = [
         int(line.strip())
         for line in f
         if line.strip()
     ]
 # Load the background genes
-with open("data/processed/background_genes.txt") as f:
+with open(f"data/processed/{DATASET}/background_genes.txt") as f:
     background_genes = [
         int(line.strip())
         for line in f
@@ -102,8 +104,8 @@ results_df = results_df.sort_values(
 
 # Save results
 results_df.to_csv(
-    "results/goatools_enrichment_results.csv",
+    f"results/{DATASET}/goatools_enrichment_results.csv",
     index=False
 )
 
-print("\nResults saved to results/goatools_enrichment_results.csv")
+print(f"\nResults saved to results/{DATASET}/goatools_enrichment_results.csv")

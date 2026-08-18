@@ -1,0 +1,543 @@
+GO_ID,Python_Name,Namespace,Enrichment,Study_Count,Study_Total,Population_Count,Population_Total,P_Value,Python_FDR,R_Name,R_Adjusted_P
+GO:0030312,external encapsulating structure,CC,e,201,3765,519,20413,7.715533736107956e-28,6.081324340540783e-25,external encapsulating structure,1.66813732387722e-28
+GO:0031012,extracellular matrix,CC,e,184,3765,477,20413,2.3387752613567364e-25,1.6527076355511586e-22,extracellular matrix,2.05359414345716e-28
+GO:1901342,regulation of vasculature development,BP,e,109,3765,282,20413,1.5793657621113724e-15,4.690716313470777e-13,regulation of vasculature development,2.8351014537223403e-10
+GO:0045765,regulation of angiogenesis,BP,e,106,3765,274,20413,2.6748298443285403e-15,7.308705066643302e-13,regulation of angiogenesis,5.116022538829471e-10
+GO:0003018,vascular process in circulatory system,BP,e,94,3765,234,20413,6.4576695984501604e-15,1.6542127885129894e-12,vascular process in circulatory system,1.83963743703811e-13
+GO:0009897,external side of plasma membrane,CC,e,126,3765,354,20413,1.3796928375724922e-14,3.1415605911525648e-12,external side of plasma membrane,1.31535483334613e-13
+GO:0005201,extracellular matrix structural constituent,MF,e,74,3765,170,20413,3.5118726946179916e-14,7.575663908505947e-12,extracellular matrix structural constituent,3.23595284315931e-13
+GO:0030198,extracellular matrix organization,BP,e,82,3765,209,20413,1.9539407995158333e-12,3.6073971895926103e-10,extracellular matrix organization,9.08856984368976e-13
+GO:0043062,extracellular structure organization,BP,e,82,3765,210,20413,2.352769347088129e-12,4.1515419511900325e-10,extracellular structure organization,9.08856984368976e-13
+GO:0045229,external encapsulating structure organization,BP,e,82,3765,211,20413,2.928715599121611e-12,5.04354359435287e-10,external encapsulating structure organization,9.08856984368976e-13
+GO:0050678,regulation of epithelial cell proliferation,BP,e,92,3765,253,20413,1.3526259098615286e-11,2.1322586746763315e-09,regulation of epithelial cell proliferation,5.9173076693928e-09
+GO:0007188,adenylate cyclase-modulating G protein-coupled receptor signaling pathway,BP,e,80,3765,210,20413,1.9074513897277435e-11,2.9613182825523213e-09,adenylate cyclase-modulating G protein-coupled receptor signaling pathway,2.45910788454305e-08
+GO:0005125,cytokine activity,MF,e,61,3765,144,20413,2.943913540214427e-11,4.4688607540455e-09,cytokine activity,0.0011995641377028
+GO:0019199,transmembrane receptor protein kinase activity,MF,e,38,3765,78,20413,1.1446451243478263e-09,1.404623504985629e-07,transmembrane receptor protein kinase activity,5.958029546856951e-09
+GO:0042391,regulation of membrane potential,BP,e,118,3765,380,20413,1.9715853028026934e-09,2.3490521866474187e-07,regulation of membrane potential,1.21625662701662e-07
+GO:0042383,sarcolemma,CC,e,47,3765,109,20413,2.454607680239891e-09,2.8744157252089193e-07,sarcolemma,2.8442972752795e-09
+GO:0016324,apical plasma membrane,CC,e,118,3765,383,20413,3.4138220747384806e-09,3.9083494847829993e-07,apical plasma membrane,7.49036129851183e-10
+GO:0045121,membrane raft,CC,e,95,3765,288,20413,3.4879488357369654e-09,3.971029749486535e-07,membrane raft,4.29379643579081e-10
+GO:0098857,membrane microdomain,CC,e,95,3765,290,20413,4.126343094804333e-09,4.595714621838326e-07,membrane microdomain,5.63241767387205e-10
+GO:0016323,basolateral plasma membrane,CC,e,85,3765,253,20413,6.762326292661971e-09,7.332293794472051e-07,basolateral plasma membrane,2.02834681766466e-08
+GO:0005539,glycosaminoglycan binding,MF,e,61,3765,161,20413,7.8323676001851e-09,8.359828605760065e-07,glycosaminoglycan binding,2.87123923154317e-08
+GO:0019838,growth factor binding,MF,e,51,3765,125,20413,8.191900336558375e-09,8.698270134564289e-07,growth factor binding,1.08346297872295e-08
+GO:0007156,homophilic cell-cell adhesion,BP,e,62,3765,166,20413,8.256457746916255e-09,8.721628278739939e-07,homophilic cell adhesion via plasma membrane adhesion molecules,1.20100246330143e-08
+GO:0004714,transmembrane receptor protein tyrosine kinase activity,MF,e,31,3765,61,20413,1.063654588264521e-08,1.1121159937400423e-06,transmembrane receptor protein tyrosine kinase activity,3.23078764558091e-08
+GO:0001570,vasculogenesis,BP,e,24,3765,41,20413,1.2847043476584111e-08,1.3296689998264554e-06,vasculogenesis,7.47398159262776e-06
+GO:0001936,regulation of endothelial cell proliferation,BP,e,49,3765,124,20413,3.6733928170696846e-08,3.5342177934370436e-06,regulation of endothelial cell proliferation,1.97918208406122e-05
+GO:0007389,pattern specification process,BP,e,68,3765,194,20413,3.7080236802550576e-08,3.5508658541806956e-06,pattern specification process,4.46583471502584e-09
+GO:0002040,sprouting angiogenesis,BP,e,20,3765,32,20413,4.5070066941860457e-08,4.256046324101696e-06,sprouting angiogenesis,4.13450272816174e-06
+GO:0005178,integrin binding,MF,e,56,3765,150,20413,5.732693797681009e-08,5.315841357279498e-06,integrin binding,6.43645933033102e-08
+GO:0070160,tight junction,CC,e,50,3765,129,20413,6.540139697642051e-08,5.983351911775829e-06,tight junction,6.05982204725086e-08
+GO:0042562,hormone binding,MF,e,33,3765,72,20413,9.112017863870237e-08,8.118807916708382e-06,hormone binding,1.37223161286234e-05
+GO:1901343,negative regulation of vasculature development,BP,e,42,3765,102,20413,9.926162608139165e-08,8.805924256649173e-06,negative regulation of vasculature development,0.0017093794603842
+GO:0097305,response to alcohol,BP,e,74,3765,221,20413,1.0358286508587853e-07,9.071468607713284e-06,response to alcohol,3.10249119127134e-06
+GO:1904018,positive regulation of vasculature development,BP,e,57,3765,156,20413,1.0970458447619749e-07,9.566706594343469e-06,positive regulation of vasculature development,1.24837014633735e-06
+GO:0005923,bicellular tight junction,CC,e,48,3765,123,20413,1.1832750632321673e-07,1.0274938928312204e-05,bicellular tight junction,1.04024767547019e-07
+GO:0051897,positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,BP,e,62,3765,176,20413,1.2732645913759138e-07,1.096345011389353e-05,positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,2.4050694921305e-07
+GO:0016525,negative regulation of angiogenesis,BP,e,41,3765,99,20413,1.2984582016223708e-07,1.113359996897374e-05,negative regulation of angiogenesis,0.0019114233223524
+GO:0007189,adenylate cyclase-activating G protein-coupled receptor signaling pathway,BP,e,51,3765,135,20413,1.378217203001431e-07,1.176825214212847e-05,adenylate cyclase-activating G protein-coupled receptor signaling pathway,4.60459070454119e-06
+GO:0001664,G protein-coupled receptor binding,MF,e,74,3765,224,20413,1.3879861630579592e-07,1.1802489808940564e-05,G protein-coupled receptor binding,0.0002248741801865
+GO:0070372,regulation of ERK1 and ERK2 cascade,BP,e,80,3765,248,20413,1.4641661268776545e-07,1.2387185798622503e-05,regulation of ERK1 and ERK2 cascade,2.73302408104325e-06
+GO:0045216,cell-cell junction organization,BP,e,54,3765,147,20413,1.550055465303547e-07,1.2912718150595768e-05,cell-cell junction organization,2.03485344064823e-08
+GO:0001653,peptide receptor activity,MF,e,38,3765,90,20413,1.5671637360382762e-07,1.3002383175154815e-05,peptide receptor activity,0.0016254670125336
+GO:2000181,negative regulation of blood vessel morphogenesis,BP,e,41,3765,100,20413,1.5922938554898926e-07,1.3127172168545196e-05,negative regulation of blood vessel morphogenesis,0.0023865495990937
+GO:0006959,humoral immune response,BP,e,63,3765,181,20413,1.946802645836639e-07,1.5707018354775684e-05,humoral immune response,0.0007682720212963
+GO:0045766,positive regulation of angiogenesis,BP,e,55,3765,152,20413,2.4815663861694216e-07,1.937353627913287e-05,positive regulation of angiogenesis,2.87699053786273e-06
+GO:1905952,regulation of lipid localization,BP,e,50,3765,134,20413,2.5053599200359945e-07,1.944785637927941e-05,regulation of lipid localization,0.0001066664872456
+GO:0008544,epidermis development,BP,e,37,3765,88,20413,2.572940761286691e-07,1.9822283842499307e-05,epidermis development,1.5523990155817e-06
+GO:0019955,cytokine binding,MF,e,50,3765,135,20413,3.042384004511766e-07,2.3236653797252793e-05,cytokine binding,1.30758903467895e-06
+GO:0008528,G protein-coupled peptide receptor activity,MF,e,36,3765,85,20413,3.103140490207162e-07,2.3552836320672357e-05,G protein-coupled peptide receptor activity,0.0025421091556436
+GO:0006935,chemotaxis,BP,e,83,3765,264,20413,3.476215932341666e-07,2.5999304051634215e-05,chemotaxis,3.53870102917542e-07
+GO:0042330,taxis,BP,e,83,3765,264,20413,3.476215932341666e-07,2.5999304051634215e-05,taxis,2.54510901343019e-07
+GO:1905954,positive regulation of lipid localization,BP,e,36,3765,86,20413,4.222709601010551e-07,3.112805318471555e-05,positive regulation of lipid localization,3.21297908539692e-05
+GO:0120161,regulation of cold-induced thermogenesis,BP,e,52,3765,144,20413,4.4187366473509545e-07,3.2456333374252014e-05,regulation of cold-induced thermogenesis,4.5427175568764e-07
+GO:0070098,chemokine-mediated signaling pathway,BP,e,29,3765,63,20413,4.839074652588625e-07,3.529080315142302e-05,chemokine-mediated signaling pathway,0.0001121552938892
+GO:0001216,DNA-binding transcription activator activity,MF,e,112,3765,390,20413,6.274341794208686e-07,4.4185596697154155e-05,DNA-binding transcription activator activity,1.58698378169056e-05
+GO:0098739,import across plasma membrane,BP,e,60,3765,176,20413,6.869359992456143e-07,4.821020353609718e-05,import across plasma membrane,4.60459070454119e-06
+GO:0043434,response to peptide hormone,BP,e,84,3765,273,20413,8.369594424703852e-07,5.7750201530456576e-05,response to peptide hormone,8.66862280849088e-06
+GO:0034764,positive regulation of transmembrane transport,BP,e,52,3765,147,20413,9.901880327179498e-07,6.741502775577723e-05,positive regulation of transmembrane transport,2.23470098490034e-05
+GO:0019722,calcium-mediated signaling,BP,e,52,3765,147,20413,9.901880327179498e-07,6.741502775577723e-05,calcium-mediated signaling,3.53870102917542e-07
+GO:0046883,regulation of hormone secretion,BP,e,69,3765,213,20413,1.1400329010824632e-06,7.710460145835948e-05,regulation of hormone secretion,3.70203941178446e-06
+GO:0001228,"DNA-binding transcription activator activity, RNA polymerase II-specific",MF,e,108,3765,378,20413,1.2172756092906705e-06,8.09923021467328e-05,"DNA-binding transcription activator activity, RNA polymerase II-specific",5.64439737621842e-05
+GO:0019216,regulation of lipid metabolic process,BP,e,85,3765,281,20413,1.2919296658306685e-06,8.56812771581485e-05,regulation of lipid metabolic process,1.67882820519322e-06
+GO:0034762,regulation of transmembrane transport,BP,e,95,3765,322,20413,1.40536076123527e-06,9.260468836011055e-05,regulation of transmembrane transport,3.53535756363002e-06
+GO:0051896,regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,BP,e,75,3765,240,20413,1.424120722983517e-06,9.354008325673464e-05,regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,3.79366193676962e-06
+GO:0050900,leukocyte migration,BP,e,58,3765,172,20413,1.5031835568432545e-06,9.841770169453294e-05,leukocyte migration,1.5523990155817e-06
+GO:0050878,regulation of body fluid levels,BP,e,66,3765,203,20413,1.5865623189189648e-06,0.0001025774975912,regulation of body fluid levels,1.34652764427306e-08
+GO:0030856,regulation of epithelial cell differentiation,BP,e,44,3765,118,20413,1.8785665953668012e-06,0.0001206307283163,regulation of epithelial cell differentiation,8.75534648997254e-05
+GO:0004252,serine-type endopeptidase activity,MF,e,52,3765,149,20413,1.931071954194564e-06,0.0001232817992439,serine-type endopeptidase activity,0.0003280585892224
+GO:1903034,regulation of response to wounding,BP,e,50,3765,142,20413,1.9389789293910617e-06,0.0001234021590062,regulation of response to wounding,3.54303710702773e-06
+GO:0005604,basement membrane,CC,e,38,3765,98,20413,2.4370938091871945e-06,0.0001522663519258,basement membrane,3.18039448773555e-07
+GO:0030858,positive regulation of epithelial cell differentiation,BP,e,25,3765,54,20413,2.5841914443409067e-06,0.0001595115520146,positive regulation of epithelial cell differentiation,0.0004605793365436
+GO:0033293,monocarboxylic acid binding,MF,e,30,3765,70,20413,2.625704682702862e-06,0.0001615872854733,monocarboxylic acid binding,0.0011373003227043
+GO:1903036,positive regulation of response to wounding,BP,e,28,3765,64,20413,2.6700617613841622e-06,0.0001638250768743,positive regulation of response to wounding,3.61422558867255e-05
+GO:0043114,regulation of vascular permeability,BP,e,24,3765,51,20413,2.8496877689079584e-06,0.0001722674084018,regulation of vascular permeability,8.16897073223179e-05
+GO:0006641,triglyceride metabolic process,BP,e,24,3765,51,20413,2.8496877689079584e-06,0.0001722674084018,triglyceride metabolic process,0.0025211795615052
+GO:0043410,positive regulation of MAPK cascade,BP,e,108,3765,384,20413,2.8645096249325816e-06,0.0001726541051286,positive regulation of MAPK cascade,2.29516272711375e-07
+GO:0050679,positive regulation of epithelial cell proliferation,BP,e,51,3765,148,20413,3.239206721580849e-06,0.0001918527842351,positive regulation of epithelial cell proliferation,8.15377831762548e-06
+GO:0060326,cell chemotaxis,BP,e,56,3765,168,20413,3.2849920935824447e-06,0.0001940038702414,cell chemotaxis,5.48768836309323e-06
+GO:0090303,positive regulation of wound healing,BP,e,26,3765,58,20413,3.468591512811514e-06,0.0002036729108081,positive regulation of wound healing,4.38848270153894e-05
+GO:0010565,regulation of ketone metabolic process,BP,e,41,3765,111,20413,3.690531667007857e-06,0.0002136442526892,regulation of ketone metabolic process,0.0003226512530821
+GO:0019957,C-C chemokine binding,MF,e,14,3765,22,20413,3.68491671742226e-06,0.0002136442526892,C-C chemokine binding,0.0001413061085462
+GO:0044853,plasma membrane raft,CC,e,41,3765,111,20413,3.690531667007857e-06,0.0002136442526892,plasma membrane raft,2.20804923884973e-06
+GO:0071674,mononuclear cell migration,BP,e,33,3765,81,20413,3.736138058967884e-06,0.0002156751471617,mononuclear cell migration,0.012545647223324
+GO:0035296,regulation of tube diameter,BP,e,40,3765,107,20413,3.879465861085682e-06,0.0002208385941423,regulation of tube diameter,3.80602827695015e-06
+GO:0035150,regulation of tube size,BP,e,40,3765,107,20413,3.879465861085682e-06,0.0002208385941423,regulation of tube size,4.38915508967835e-06
+GO:0097746,blood vessel diameter maintenance,BP,e,40,3765,107,20413,3.879465861085682e-06,0.0002208385941423,blood vessel diameter maintenance,3.80602827695015e-06
+GO:0046888,negative regulation of hormone secretion,BP,e,25,3765,55,20413,3.910516596314076e-06,0.0002219895196904,negative regulation of hormone secretion,5.90887613218488e-05
+GO:0031406,carboxylic acid binding,MF,e,61,3765,188,20413,4.190376488643878e-06,0.0002365657999498,carboxylic acid binding,0.0015394164408606
+GO:0009925,basal plasma membrane,CC,e,29,3765,68,20413,4.267059150746591e-06,0.0002395749128116,basal plasma membrane,7.637012896945339e-11
+GO:0015026,coreceptor activity,MF,e,29,3765,68,20413,4.267059150746591e-06,0.0002395749128116,coreceptor activity,1.58698378169056e-05
+GO:0072073,kidney epithelium development,BP,e,24,3765,52,20413,4.369595525171663e-06,0.0002433318508079,kidney epithelium development,1.18237393582837e-05
+GO:0046887,positive regulation of hormone secretion,BP,e,45,3765,126,20413,4.368205203673769e-06,0.0002433318508079,positive regulation of hormone secretion,0.0002724361135104
+GO:0032370,positive regulation of lipid transport,BP,e,30,3765,72,20413,4.463287235694995e-06,0.0002472057981651,positive regulation of lipid transport,0.0002727223201202
+GO:0060249,anatomical structure homeostasis,BP,e,42,3765,115,20413,4.839083338848289e-06,0.0002651533017727,anatomical structure homeostasis,0.0004491527839095
+GO:0032368,regulation of lipid transport,BP,e,42,3765,115,20413,4.839083338848289e-06,0.0002651533017727,regulation of lipid transport,0.0023623859357917
+GO:0001894,tissue homeostasis,BP,e,42,3765,115,20413,4.839083338848289e-06,0.0002651533017727,tissue homeostasis,0.0004491527839095
+GO:0043177,organic acid binding,MF,e,61,3765,190,20413,5.09397838622973e-06,0.0002776353698643,organic acid binding,0.0018720831352379
+GO:0061035,regulation of cartilage development,BP,e,22,3765,46,20413,5.2753582417819825e-06,0.0002867583990685,regulation of cartilage development,0.0028529467069271
+GO:0008201,heparin binding,MF,e,44,3765,122,20413,5.295179642468558e-06,0.0002870743820452,heparin binding,5.64439737621842e-05
+GO:0061041,regulation of wound healing,BP,e,42,3765,116,20413,5.647390918807578e-06,0.0003053614303406,regulation of wound healing,1.50418322762539e-05
+GO:0150104,transport across blood-brain barrier,BP,e,34,3765,87,20413,5.687542499309786e-06,0.0003059181323841,transport across blood-brain barrier,4.60459070454119e-06
+GO:0010232,vascular transport,BP,e,34,3765,87,20413,5.687542499309786e-06,0.0003059181323841,vascular transport,4.60459070454119e-06
+GO:0005179,hormone activity,MF,e,32,3765,79,20413,5.906435931348993e-06,0.0003143475081097,hormone activity,0.0341857193675171
+GO:0098637,protein complex involved in cell-matrix adhesion,CC,e,13,3765,20,20413,5.90029228281777e-06,0.0003143475081097,protein complex involved in cell-matrix adhesion,0.0001376859804664
+GO:0032355,response to estradiol,BP,e,37,3765,98,20413,5.9209553569682145e-06,0.0003143475081097,response to estradiol,3.53817269656464e-05
+GO:0002792,negative regulation of peptide secretion,BP,e,18,3765,34,20413,6.194583693308583e-06,0.0003280248155735,negative regulation of peptide secretion,0.0006364402124974
+GO:0050680,negative regulation of epithelial cell proliferation,BP,e,35,3765,90,20413,6.758439600921891e-06,0.0003569605740765,negative regulation of epithelial cell proliferation,0.004527969828783
+GO:0003777,microtubule motor activity,MF,e,28,3765,66,20413,6.941635741955446e-06,0.0003648387668754,microtubule motor activity,0.0001060376088274
+GO:0070374,positive regulation of ERK1 and ERK2 cascade,BP,e,55,3765,166,20413,7.025583536976074e-06,0.0003672838862838,positive regulation of ERK1 and ERK2 cascade,1.18821347444827e-05
+GO:0008236,serine-type peptidase activity,MF,e,55,3765,166,20413,7.025583536976074e-06,0.0003672838862838,serine-type peptidase activity,0.0004909211306722
+GO:0007043,cell-cell junction assembly,BP,e,39,3765,106,20413,7.283902439096039e-06,0.0003788553621431,cell-cell junction assembly,8.16674530029662e-07
+GO:0007204,positive regulation of cytosolic calcium ion concentration,BP,e,46,3765,132,20413,7.506720087224764e-06,0.0003874942436964,positive regulation of cytosolic calcium ion concentration,0.0002593461061108
+GO:0090257,regulation of muscle system process,BP,e,65,3765,208,20413,8.308485848280487e-06,0.0004267313295458,regulation of muscle system process,0.0003075665547568
+GO:0003002,regionalization,BP,e,40,3765,109,20413,8.876798388994655e-06,0.0004515482965782,regionalization,2.4050694921305e-07
+GO:0043270,positive regulation of monoatomic ion transport,BP,e,50,3765,148,20413,9.026310338394766e-06,0.0004556063491741,positive regulation of monoatomic ion transport,6.69531348804141e-05
+GO:0120193,tight junction organization,BP,e,20,3765,41,20413,9.670664277096183e-06,0.0004821920268382,tight junction organization,3.58794450986856e-05
+GO:0031253,cell projection membrane,CC,e,100,3765,359,20413,1.0005218851800966e-05,0.0004952583331641,cell projection membrane,2.49191453556018e-06
+GO:0032330,regulation of chondrocyte differentiation,BP,e,19,3765,38,20413,1.0225978592529464e-05,0.0005025443148602,regulation of chondrocyte differentiation,0.0013506018504555
+GO:0002673,regulation of acute inflammatory response,BP,e,19,3765,38,20413,1.0225978592529464e-05,0.0005025443148602,regulation of acute inflammatory response,0.0021641900549105
+GO:0017171,serine hydrolase activity,MF,e,56,3765,172,20413,1.0360199702978444e-05,0.0005067101969287,serine hydrolase activity,0.0005350046032192
+GO:0071375,cellular response to peptide hormone stimulus,BP,e,56,3765,172,20413,1.0360199702978444e-05,0.0005067101969287,cellular response to peptide hormone stimulus,8.75646613868282e-05
+GO:0090278,negative regulation of peptide hormone secretion,BP,e,17,3765,32,20413,1.0567295922547016e-05,0.0005143838369139,negative regulation of peptide hormone secretion,0.0004846349961162
+GO:0055074,calcium ion homeostasis,BP,e,58,3765,180,20413,1.054526459031666e-05,0.0005143838369139,calcium ion homeostasis,2.05038553353217e-05
+GO:0001666,response to hypoxia,BP,e,72,3765,239,20413,1.067727956433528e-05,0.0005160601181884,response to hypoxia,1.33246228058e-06
+GO:0007193,adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway,BP,e,31,3765,78,20413,1.1313774786765176e-05,0.0005417130530494,adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway,0.0021641900549105
+GO:0051047,positive regulation of secretion,BP,e,79,3765,269,20413,1.1468297695475272e-05,0.0005478317591453,positive regulation of secretion,6.01532478239624e-05
+GO:0008217,regulation of blood pressure,BP,e,43,3765,123,20413,1.1698531966211306e-05,0.0005562366950894,regulation of blood pressure,1.05730760892255e-06
+GO:0010001,glial cell differentiation,BP,e,22,3765,48,20413,1.250282130946373e-05,0.0005920331282398,glial cell differentiation,4.37711345975926e-05
+GO:0005901,caveola,CC,e,30,3765,74,20413,1.2714648125370468e-05,0.0005995778452136,caveola,1.1258287410637e-06
+GO:0030021,extracellular matrix structural constituent conferring compression resistance,MF,e,11,3765,16,20413,1.444302492169741e-05,0.0006742161952627,extracellular matrix structural constituent conferring compression resistance,0.0037738882155373
+GO:0098636,protein complex involved in cell adhesion,CC,e,26,3765,61,20413,1.4612654009435395e-05,0.0006805843604894,protein complex involved in cell adhesion,3.2268273075301e-05
+GO:1904062,regulation of monoatomic cation transmembrane transport,BP,e,67,3765,220,20413,1.5122296057869108e-05,0.0007027238392605,regulation of monoatomic cation transmembrane transport,0.0003561909842168
+GO:0005126,cytokine receptor binding,MF,e,63,3765,203,20413,1.5193177618654182e-05,0.0007028302233387,cytokine receptor binding,0.0145966331331002
+GO:0007599,hemostasis,BP,e,28,3765,69,20413,1.6056486575297367e-05,0.0007410936472692,hemostasis,1.2622987817798e-06
+GO:0007178,cell surface receptor protein serine/threonine kinase signaling pathway,BP,e,46,3765,135,20413,1.6330562687690243e-05,0.0007520499351883,cell surface receptor protein serine/threonine kinase signaling pathway,1.58228577160413e-05
+GO:0046622,positive regulation of organ growth,BP,e,15,3765,27,20413,1.7268274560349907e-05,0.0007846535489251,positive regulation of organ growth,0.0063494413966183
+GO:0044060,regulation of endocrine process,BP,e,18,3765,36,20413,1.747786577922767e-05,0.0007924201402958,regulation of endocrine process,0.0007968653266106
+GO:0034767,positive regulation of monoatomic ion transmembrane transport,BP,e,37,3765,102,20413,1.759327060928925e-05,0.00079589159955,positive regulation of monoatomic ion transmembrane transport,0.0003544745841664
+GO:0043269,regulation of monoatomic ion transport,BP,e,91,3765,324,20413,1.8226952366220352e-05,0.0008209339227273,regulation of monoatomic ion transport,3.52886436539676e-05
+GO:0001667,ameboidal-type cell migration,BP,e,26,3765,62,20413,1.8414466345203763e-05,0.0008237820902065,ameboidal-type cell migration,6.01532478239624e-05
+GO:0097060,synaptic membrane,CC,e,108,3765,398,20413,1.982401628677893e-05,0.000883159925576,synaptic membrane,3.18933481097285e-06
+GO:0031589,cell-substrate adhesion,BP,e,46,3765,137,20413,2.0534613290169588e-05,0.0009108567752282,cell-substrate adhesion,2.26889767244803e-08
+GO:1904064,positive regulation of cation transmembrane transport,BP,e,36,3765,99,20413,2.2389061566111792e-05,0.0009888341350739,positive regulation of cation transmembrane transport,0.0011181240658757
+GO:0010959,regulation of metal ion transport,BP,e,80,3765,278,20413,2.295921813066278e-05,0.0010096636419563,regulation of metal ion transport,0.0003661946812241
+GO:0016339,calcium-dependent cell-cell adhesion,BP,e,20,3765,43,20413,2.361374021430399e-05,0.001036223507948,calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules,7.36599581293567e-05
+GO:0051048,negative regulation of secretion,BP,e,45,3765,133,20413,2.391860077801973e-05,0.0010473587302221,negative regulation of secretion,0.0012524732109397
+GO:0141091,transforming growth factor beta receptor superfamily signaling pathway,BP,e,43,3765,126,20413,2.4910156597333073e-05,0.0010861358279769,transforming growth factor beta receptor superfamily signaling pathway,4.88790325657556e-05
+GO:0034765,regulation of monoatomic ion transmembrane transport,BP,e,69,3765,232,20413,2.5945502192143437e-05,0.0011193708977338,regulation of monoatomic ion transmembrane transport,7.57546801035787e-05
+GO:0071805,potassium ion transmembrane transport,BP,e,49,3765,149,20413,2.661861482586799e-05,0.0011412035013106,potassium ion transmembrane transport,3.49710629537682e-05
+GO:1903532,positive regulation of secretion by cell,BP,e,74,3765,253,20413,2.7215465768897463e-05,0.0011619302916708,positive regulation of secretion by cell,9.54108413456309e-05
+GO:0062013,positive regulation of small molecule metabolic process,BP,e,47,3765,142,20413,2.8010143740683975e-05,0.0011908960076303,positive regulation of small molecule metabolic process,0.0001510107187709
+GO:2000146,negative regulation of cell motility,BP,e,81,3765,284,20413,2.840079360424499e-05,0.0012050051000658,negative regulation of cell motility,0.001496648928444
+GO:0060421,positive regulation of heart growth,BP,e,14,3765,25,20413,2.9356859087057445e-05,0.0012378808915042,positive regulation of heart growth,0.0028529467069271
+GO:0008009,chemokine activity,MF,e,17,3765,34,20413,2.991036210089455e-05,0.0012560513330607,chemokine activity,0.0140648374222215
+GO:0045923,positive regulation of fatty acid metabolic process,BP,e,17,3765,34,20413,2.991036210089455e-05,0.0012560513330607,positive regulation of fatty acid metabolic process,0.0009959163422484
+GO:0019956,chemokine binding,MF,e,16,3765,31,20413,3.091344048354945e-05,0.0012928757874068,chemokine binding,0.0004437562540691
+GO:0036293,response to decreased oxygen levels,BP,e,72,3765,246,20413,3.11091568821225e-05,0.0012957722601327,response to decreased oxygen levels,2.01312895985121e-06
+GO:0007596,blood coagulation,BP,e,26,3765,64,20413,3.190369443133499e-05,0.0013234866598812,blood coagulation,3.48942307730918e-06
+GO:0050817,coagulation,BP,e,26,3765,64,20413,3.190369443133499e-05,0.0013234866598812,coagulation,5.78253688775259e-06
+GO:0007162,negative regulation of cell adhesion,BP,e,75,3765,258,20413,3.2463395092828385e-05,0.001343984556843,negative regulation of cell adhesion,3.58794450986856e-05
+GO:0045834,positive regulation of lipid metabolic process,BP,e,42,3765,123,20413,3.259116450209329e-05,0.0013465538994786,positive regulation of lipid metabolic process,0.0001854237706474
+GO:0001938,positive regulation of endothelial cell proliferation,BP,e,31,3765,81,20413,3.424941923014258e-05,0.0014122200166666,positive regulation of endothelial cell proliferation,0.0001057360282692
+GO:0120162,positive regulation of cold-induced thermogenesis,BP,e,35,3765,97,20413,3.462668760245592e-05,0.0014249090542914,positive regulation of cold-induced thermogenesis,0.0001157106350597
+GO:0050920,regulation of chemotaxis,BP,e,55,3765,176,20413,3.538906152587511e-05,0.0014533628013021,regulation of chemotaxis,4.01843306893255e-05
+GO:0008016,regulation of heart contraction,BP,e,53,3765,168,20413,3.607652912563496e-05,0.0014735693973571,regulation of heart contraction,4.89326876980106e-05
+GO:0006639,acylglycerol metabolic process,BP,e,29,3765,75,20413,3.616871160252936e-05,0.0014735693973571,acylglycerol metabolic process,0.0064102940271455
+GO:0006638,neutral lipid metabolic process,BP,e,29,3765,75,20413,3.616871160252936e-05,0.0014735693973571,neutral lipid metabolic process,0.0041140798308814
+GO:1903522,regulation of blood circulation,BP,e,64,3765,213,20413,3.727795684415948e-05,0.0015127468705096,regulation of blood circulation,5.01648351258914e-05
+GO:0051480,regulation of cytosolic calcium ion concentration,BP,e,24,3765,57,20413,3.844184736396026e-05,0.0015507653110819,regulation of cytosolic calcium ion concentration,0.0003146591090231
+GO:0048545,response to steroid hormone,BP,e,54,3765,171,20413,3.902025671228528e-05,0.0015679257270683,response to steroid hormone,0.0004663335764281
+GO:0005216,monoatomic ion channel activity,MF,e,105,3765,391,20413,4.057248187209507e-05,0.0016176106439782,monoatomic ion channel activity,9.42127580495664e-05
+GO:0007411,axon guidance,BP,e,52,3765,164,20413,4.217564194938762e-05,0.0016750105241643,axon guidance,3.48942307730918e-06
+GO:1903531,negative regulation of secretion by cell,BP,e,41,3765,120,20413,4.322453338014235e-05,0.0017100393099599,negative regulation of secretion by cell,0.001507808806247
+GO:0120192,tight junction assembly,BP,e,18,3765,38,20413,4.434034945645807e-05,0.0017474361180984,tight junction assembly,0.0002341473329869
+GO:0097485,neuron projection guidance,BP,e,52,3765,165,20413,4.6303408735366415e-05,0.0018143322279423,neuron projection guidance,3.79611193626191e-06
+GO:0001508,action potential,BP,e,31,3765,83,20413,4.70712564903107e-05,0.0018373928747732,action potential,6.29024491209245e-06
+GO:0040013,negative regulation of locomotion,BP,e,82,3765,291,20413,4.82351997227313e-05,0.0018764334320181,negative regulation of locomotion,0.0011390635128108
+GO:0060562,epithelial tube morphogenesis,BP,e,27,3765,68,20413,4.959243554088083e-05,0.0019175429840363,epithelial tube morphogenesis,7.82131655248811e-08
+GO:0046460,neutral lipid biosynthetic process,BP,e,13,3765,23,20413,4.992100126143869e-05,0.0019229907497192,neutral lipid biosynthetic process,0.0034834576847733
+GO:0046463,acylglycerol biosynthetic process,BP,e,13,3765,23,20413,4.992100126143869e-05,0.0019229907497192,acylglycerol biosynthetic process,0.0034834576847733
+GO:0030336,negative regulation of cell migration,BP,e,77,3765,271,20413,5.221010627007228e-05,0.0019998910426029,negative regulation of cell migration,0.0016390007136578
+GO:0002685,regulation of leukocyte migration,BP,e,59,3765,194,20413,5.306694041327264e-05,0.0020213769700542,regulation of leukocyte migration,0.0001280899387629
+GO:0060420,regulation of heart growth,BP,e,20,3765,45,20413,5.334191098066e-05,0.0020280812276932,regulation of heart growth,0.0090901953897861
+GO:0030278,regulation of ossification,BP,e,34,3765,95,20413,5.347534437544659e-05,0.0020281973206031,regulation of ossification,0.0001117954068254
+GO:1901654,response to ketone,BP,e,55,3765,177,20413,5.35429049161331e-05,0.0020281973206031,response to ketone,0.0009633544233499
+GO:0006813,potassium ion transport,BP,e,49,3765,153,20413,5.543107438583804e-05,0.0020958468771014,potassium ion transport,1.47153678430987e-05
+GO:0007416,synapse assembly,BP,e,33,3765,91,20413,5.807318648720571e-05,0.0021876724461071,synapse assembly,0.0016296257721284
+GO:0006956,complement activation,BP,e,19,3765,42,20413,6.064630698432615e-05,0.0022762358407139,complement activation,0.0003146591090231
+GO:0046620,regulation of organ growth,BP,e,23,3765,55,20413,6.244763134596632e-05,0.0023371776469542,regulation of organ growth,0.0096780938227978
+GO:0022836,gated channel activity,MF,e,79,3765,280,20413,6.722042677840401e-05,0.0024955583441482,gated channel activity,0.0005172259988449
+GO:0034103,regulation of tissue remodeling,BP,e,26,3765,65,20413,6.804966508062512e-05,0.0025172234413307,regulation of tissue remodeling,0.0113234219605034
+GO:0005504,fatty acid binding,MF,e,18,3765,39,20413,6.820378540634365e-05,0.0025183786924904,fatty acid binding,0.0071736745489691
+GO:0070482,response to oxygen levels,BP,e,76,3765,269,20413,6.985804283428295e-05,0.0025655929602203,response to oxygen levels,4.38759534120335e-06
+GO:0032868,response to insulin,BP,e,44,3765,134,20413,7.083452768474001e-05,0.002582939458796,response to insulin,0.0007059763641473
+GO:0005200,structural constituent of cytoskeleton,MF,e,37,3765,106,20413,7.121981029859577e-05,0.0025831992432727,structural constituent of cytoskeleton,0.0025421091556436
+GO:0021700,developmental maturation,BP,e,37,3765,106,20413,7.121981029859577e-05,0.0025831992432727,developmental maturation,8.01699627042242e-10
+GO:0045598,regulation of fat cell differentiation,BP,e,37,3765,106,20413,7.121981029859577e-05,0.0025831992432727,regulation of fat cell differentiation,0.0009899116016385
+GO:0019217,regulation of fatty acid metabolic process,BP,e,30,3765,81,20413,7.35399908535697e-05,0.0026579453837075,regulation of fatty acid metabolic process,0.0037525559518075
+GO:0010811,positive regulation of cell-substrate adhesion,BP,e,37,3765,107,20413,7.751078225613452e-05,0.0027867165978508,positive regulation of cell-substrate adhesion,0.0001178004122293
+GO:0006940,regulation of smooth muscle contraction,BP,e,20,3765,46,20413,7.809882148341516e-05,0.0028029407156911,regulation of smooth muscle contraction,0.0012543272642888
+GO:0016493,C-C chemokine receptor activity,MF,e,12,3765,21,20413,8.489900880248569e-05,0.0030335883263617,C-C chemokine receptor activity,0.0015394164408606
+GO:0051255,spindle midzone assembly,BP,e,9,3765,13,20413,8.511751757468314e-05,0.0030335883263617,spindle midzone assembly,0.000703882998074
+GO:0007088,regulation of mitotic nuclear division,BP,e,39,3765,115,20413,8.503712551964448e-05,0.0030335883263617,regulation of mitotic nuclear division,0.0004605793365436
+GO:0031644,regulation of nervous system process,BP,e,37,3765,108,20413,8.690936255248032e-05,0.0030920721645624,regulation of nervous system process,0.0001372627478563
+GO:0001637,G protein-coupled chemoattractant receptor activity,MF,e,13,3765,24,20413,9.05276408030868e-05,0.0032096590708956,G protein-coupled chemoattractant receptor activity,0.0045230848192286
+GO:0004950,chemokine receptor activity,MF,e,13,3765,24,20413,9.05276408030868e-05,0.0032096590708956,chemokine receptor activity,0.0045230848192286
+GO:0035633,maintenance of blood-brain barrier,BP,e,14,3765,27,20413,9.108458104943046e-05,0.0032238278401484,maintenance of blood-brain barrier,0.0001281732928222
+GO:0003014,renal system process,BP,e,34,3765,96,20413,9.189625989955608e-05,0.0032469483691751,renal system process,0.000135255995176
+GO:0014013,regulation of gliogenesis,BP,e,26,3765,67,20413,9.389611406877564e-05,0.0032892531036092,regulation of gliogenesis,0.0036873870784378
+GO:0062012,regulation of small molecule metabolic process,BP,e,79,3765,283,20413,0.0001021249723581,0.0035471984042992,regulation of small molecule metabolic process,1.79403573563362e-05
+GO:0001954,positive regulation of cell-matrix adhesion,BP,e,23,3765,57,20413,0.0001044199946283,0.0036085648396605,positive regulation of cell-matrix adhesion,0.0008001941916409
+GO:0030199,collagen fibril organization,BP,e,23,3765,57,20413,0.0001044199946283,0.0036085648396605,collagen fibril organization,0.0001991262301127
+GO:1903053,regulation of extracellular matrix organization,BP,e,25,3765,63,20413,0.0001065022919597,0.003656458435088,regulation of extracellular matrix organization,0.0028529467069271
+GO:0010717,regulation of epithelial to mesenchymal transition,BP,e,34,3765,98,20413,0.0001186042873311,0.0040307755560136,regulation of epithelial to mesenchymal transition,0.0057810563244727
+GO:0010810,regulation of cell-substrate adhesion,BP,e,58,3765,195,20413,0.000123413765208,0.004187281937762,regulation of cell-substrate adhesion,2.67315660602378e-05
+GO:0051783,regulation of nuclear division,BP,e,41,3765,126,20413,0.0001246591201787,0.0042225443798742,regulation of nuclear division,0.0002506634569816
+GO:0051960,regulation of nervous system development,BP,e,85,3765,313,20413,0.0001260497423231,0.0042555805097661,regulation of nervous system development,2.45758444429733e-05
+GO:0051256,mitotic spindle midzone assembly,BP,e,8,3765,11,20413,0.0001286692363904,0.0043368727982709,mitotic spindle midzone assembly,0.0005623256493066
+GO:0031214,biomineral tissue development,BP,e,19,3765,44,20413,0.0001311165303146,0.0043904755812699,biomineral tissue development,3.38766275629968e-06
+GO:0005912,adherens junction,CC,e,58,3765,196,20413,0.0001321706399433,0.004411356554331,adherens junction,5.00223991958367e-06
+GO:0010743,regulation of macrophage derived foam cell differentiation,BP,e,15,3765,31,20413,0.0001414988054015,0.0046845476883572,regulation of macrophage derived foam cell differentiation,0.0011897086826472
+GO:0016327,apicolateral plasma membrane,CC,e,11,3765,19,20413,0.0001443615082166,0.0047639297711478,apicolateral plasma membrane,0.0034233783620657
+GO:0043117,positive regulation of vascular permeability,BP,e,11,3765,19,20413,0.0001443615082166,0.0047639297711478,positive regulation of vascular permeability,0.0435095043445094
+GO:0010965,regulation of mitotic sister chromatid separation,BP,e,26,3765,69,20413,0.0001463125493176,0.0047974129170664,regulation of mitotic sister chromatid separation,0.000315860578804
+GO:0007517,muscle organ development,BP,e,26,3765,69,20413,0.0001463125493176,0.0047974129170664,muscle organ development,6.66265332080726e-05
+GO:0033047,regulation of mitotic sister chromatid segregation,BP,e,25,3765,65,20413,0.0001489513482123,0.0048683572231495,regulation of mitotic sister chromatid segregation,0.0003146591090231
+GO:0050890,cognition,BP,e,59,3765,200,20413,0.0001495895282524,0.0048814302587234,cognition,4.38848270153894e-05
+GO:0010712,regulation of collagen metabolic process,BP,e,18,3765,41,20413,0.0001517249981008,0.0049197790918995,regulation of collagen metabolic process,0.0017243223886814
+GO:1990573,potassium ion import across plasma membrane,BP,e,18,3765,41,20413,0.0001517249981008,0.0049197790918995,potassium ion import across plasma membrane,0.0098711414246019
+GO:0010714,positive regulation of collagen metabolic process,BP,e,12,3765,22,20413,0.000155432686786,0.0050161922052061,positive regulation of collagen metabolic process,0.0021641900549105
+GO:0045987,positive regulation of smooth muscle contraction,BP,e,12,3765,22,20413,0.000155432686786,0.0050161922052061,positive regulation of smooth muscle contraction,0.0075088625943752
+GO:0019825,oxygen binding,MF,e,12,3765,22,20413,0.000155432686786,0.0050161922052061,oxygen binding,0.0301984890937765
+GO:0001504,neurotransmitter uptake,BP,e,13,3765,25,20413,0.0001567959876621,0.0050443016878489,neurotransmitter uptake,0.0004846349961162
+GO:0033612,receptor serine/threonine kinase binding,MF,e,13,3765,25,20413,0.0001567959876621,0.0050443016878489,receptor serine/threonine kinase binding,0.005052185698531
+GO:0097529,myeloid leukocyte migration,BP,e,31,3765,88,20413,0.0001615263416684,0.0051680080195597,myeloid leukocyte migration,0.0001157106350597
+GO:0046890,regulation of lipid biosynthetic process,BP,e,51,3765,167,20413,0.0001779455384359,0.0056537022002598,regulation of lipid biosynthetic process,0.0001479592172147
+GO:0141108,transporter regulator activity,MF,e,53,3765,176,20413,0.0001785517614765,0.0056641814983571,transporter regulator activity,0.0004909211306722
+GO:0046683,response to organophosphorus,BP,e,37,3765,111,20413,0.0001817437729173,0.0057476468185096,response to organophosphorus,6.01532478239624e-05
+GO:0004935,adrenergic receptor activity,MF,e,7,3765,9,20413,0.0001832149703586,0.0057852455894618,adrenergic receptor activity,0.0037738882155373
+GO:0035725,sodium ion transmembrane transport,BP,e,47,3765,151,20413,0.0001900234341004,0.0059634766233084,sodium ion transmembrane transport,3.10249119127134e-06
+GO:0060390,regulation of SMAD protein signal transduction,BP,e,24,3765,62,20413,0.0001949894037395,0.006100637940204,regulation of SMAD protein signal transduction,0.0024039709844358
+GO:0032376,positive regulation of cholesterol transport,BP,e,16,3765,35,20413,0.0001975513765806,0.006161979239373,positive regulation of cholesterol transport,0.0016205681232514
+GO:0032373,positive regulation of sterol transport,BP,e,16,3765,35,20413,0.0001975513765806,0.006161979239373,positive regulation of sterol transport,0.0016205681232514
+GO:0015669,gas transport,BP,e,9,3765,14,20413,0.0001991681924539,0.0062029692522162,gas transport,0.0120800397291127
+GO:0032970,regulation of actin filament-based process,BP,e,92,3765,347,20413,0.0002004683232465,0.0062245414368045,regulation of actin filament-based process,0.0002169286040765
+GO:0043524,negative regulation of neuron apoptotic process,BP,e,37,3765,112,20413,0.0002025228232918,0.0062693356763139,negative regulation of neuron apoptotic process,0.0026731720269424
+GO:0003774,cytoskeletal motor activity,MF,e,37,3765,112,20413,0.0002025228232918,0.0062693356763139,cytoskeletal motor activity,0.0005350046032192
+GO:0120544,polypeptide conformation or assembly isomerase activity,MF,e,39,3765,120,20413,0.0002084380343511,0.0064233393051993,polypeptide conformation or assembly isomerase activity,0.0004909211306722
+GO:0031594,neuromuscular junction,CC,e,30,3765,85,20413,0.0002081745538664,0.0064233393051993,neuromuscular junction,0.0041480342744412
+GO:0007611,learning or memory,BP,e,49,3765,161,20413,0.0002105243239424,0.0064681783666443,learning or memory,8.75534648997254e-05
+GO:0042445,hormone metabolic process,BP,e,49,3765,161,20413,0.0002105243239424,0.0064681783666443,hormone metabolic process,4.60459070454119e-06
+GO:0061138,morphogenesis of a branching epithelium,BP,e,21,3765,52,20413,0.0002119760364004,0.006503031308316,morphogenesis of a branching epithelium,3.4355110253460702e-09
+GO:0051231,spindle elongation,BP,e,5,3765,5,20413,0.0002129852509316,0.0065047790571431,spindle elongation,0.000703882998074
+GO:0001533,cornified envelope,CC,e,20,3765,48,20413,0.0002151932862558,0.0065624345464894,cornified envelope,0.0049026772121695
+GO:1905818,regulation of chromosome separation,BP,e,29,3765,80,20413,0.0002172940242195,0.0066068344782376,regulation of chromosome separation,0.0005686356002133
+GO:0030020,extracellular matrix structural constituent conferring tensile strength,MF,e,18,3765,42,20413,0.0002200340164382,0.0066802327390645,extracellular matrix structural constituent conferring tensile strength,0.0007897925510396
+GO:0010669,epithelial structure maintenance,BP,e,15,3765,32,20413,0.0002211216468929,0.0066835485394942,epithelial structure maintenance,0.0145285305036138
+GO:0072163,mesonephric epithelium development,BP,e,15,3765,32,20413,0.0002211216468929,0.0066835485394942,mesonephric epithelium development,0.000146954442718
+GO:0001952,regulation of cell-matrix adhesion,BP,e,39,3765,121,20413,0.0002339232371724,0.0069982319698915,regulation of cell-matrix adhesion,0.0003544745841664
+GO:0035924,cellular response to vascular endothelial growth factor stimulus,BP,e,14,3765,29,20413,0.0002430666143115,0.0071982140564847,cellular response to vascular endothelial growth factor stimulus,1.71212285090594e-05
+GO:0034694,response to prostaglandin,BP,e,14,3765,29,20413,0.0002430666143115,0.0071982140564847,response to prostaglandin,0.0036406507221933
+GO:0046676,negative regulation of insulin secretion,BP,e,14,3765,29,20413,0.0002430666143115,0.0071982140564847,negative regulation of insulin secretion,0.0028529467069271
+GO:0048638,regulation of developmental growth,BP,e,59,3765,203,20413,0.0002427724566517,0.0071982140564847,regulation of developmental growth,0.000181948256503
+GO:0044321,response to leptin,BP,e,10,3765,17,20413,0.0002453185271583,0.0072335432763402,response to leptin,0.0064102940271455
+GO:0032332,positive regulation of chondrocyte differentiation,BP,e,10,3765,17,20413,0.0002453185271583,0.0072335432763402,positive regulation of chondrocyte differentiation,0.0011680012466798
+GO:0071695,anatomical structure maturation,BP,e,30,3765,86,20413,0.0002473271224203,0.007282291264023,anatomical structure maturation,1.7617912734260802e-09
+GO:0086001,cardiac muscle cell action potential,BP,e,17,3765,39,20413,0.000255871349101,0.0075230581881318,cardiac muscle cell action potential,0.0002157941329944
+GO:0005788,endoplasmic reticulum lumen,CC,e,85,3765,319,20413,0.0002609489414235,0.0075960605917523,endoplasmic reticulum lumen,8.81357707529845e-05
+GO:0003206,cardiac chamber morphogenesis,BP,e,13,3765,26,20413,0.000260782516158,0.0075960605917523,cardiac chamber morphogenesis,0.0001372627478563
+GO:0010875,positive regulation of cholesterol efflux,BP,e,13,3765,26,20413,0.000260782516158,0.0075960605917523,positive regulation of cholesterol efflux,0.0008696224613475
+GO:0000940,outer kinetochore,CC,e,11,3765,20,20413,0.0002673485561348,0.0077274667995375,outer kinetochore,0.0009957064915859
+GO:0016010,dystrophin-associated glycoprotein complex,CC,e,11,3765,20,20413,0.0002673485561348,0.0077274667995375,dystrophin-associated glycoprotein complex,0.0002823697620659
+GO:0010631,epithelial cell migration,BP,e,11,3765,20,20413,0.0002673485561348,0.0077274667995375,epithelial cell migration,0.0154221999509765
+GO:0048709,oligodendrocyte differentiation,BP,e,11,3765,20,20413,0.0002673485561348,0.0077274667995375,oligodendrocyte differentiation,0.0190080864049968
+GO:0048754,branching morphogenesis of an epithelial tube,BP,e,20,3765,49,20413,0.0002686280948639,0.0077535148564046,branching morphogenesis of an epithelial tube,3.70489464075014e-06
+GO:0022602,ovulation cycle process,BP,e,12,3765,23,20413,0.0002705363437219,0.0077757381372979,ovulation cycle process,0.0001340582357947
+GO:0048706,embryonic skeletal system development,BP,e,12,3765,23,20413,0.0002705363437219,0.0077757381372979,embryonic skeletal system development,8.07016061594037e-06
+GO:0061036,positive regulation of cartilage development,BP,e,12,3765,23,20413,0.0002705363437219,0.0077757381372979,positive regulation of cartilage development,0.0019961570616769
+GO:0071456,cellular response to hypoxia,BP,e,38,3765,117,20413,0.0002736213901145,0.0078533937641704,cellular response to hypoxia,0.003707733015729
+GO:0004713,protein tyrosine kinase activity,MF,e,44,3765,142,20413,0.000292505543371,0.0083719498607586,protein tyrosine kinase activity,0.0003276070848854
+GO:0017046,peptide hormone binding,MF,e,16,3765,36,20413,0.0002950582226079,0.0084214876823178,peptide hormone binding,0.0037738882155373
+GO:0086002,cardiac muscle cell action potential involved in contraction,BP,e,16,3765,36,20413,0.0002950582226079,0.0084214876823178,cardiac muscle cell action potential involved in contraction,0.0012543272642888
+GO:0006937,regulation of muscle contraction,BP,e,46,3765,151,20413,0.0003081976530079,0.0087356770443864,regulation of muscle contraction,0.0015708053514544
+GO:0006869,lipid transport,BP,e,81,3765,302,20413,0.0003113302195362,0.0087930393400162,lipid transport,2.50331474981247e-05
+GO:0006814,sodium ion transport,BP,e,51,3765,172,20413,0.0003372029372642,0.0094322021581409,sodium ion transport,1.58155831116052e-05
+GO:0014074,response to purine-containing compound,BP,e,40,3765,127,20413,0.0003373739414393,0.0094322021581409,response to purine-containing compound,8.54030912133352e-05
+GO:0031960,response to corticosteroid,BP,e,38,3765,119,20413,0.0003404047997548,0.0094910415801042,response to corticosteroid,0.0021059887273869
+GO:0005581,collagen trimer,CC,e,19,3765,46,20413,0.000348806960768,0.0096989159389677,collagen trimer,4.74929598537897e-07
+GO:0051952,regulation of amine transport,BP,e,22,3765,56,20413,0.0003620251642395,0.0100121210401638,regulation of amine transport,0.0001486244900253
+GO:0048562,embryonic organ morphogenesis,BP,e,22,3765,56,20413,0.0003620251642395,0.0100121210401638,embryonic organ morphogenesis,2.29516272711375e-07
+GO:0015849,organic acid transport,BP,e,71,3765,259,20413,0.0003614119868228,0.0100121210401638,organic acid transport,8.52615384129545e-07
+GO:0046942,carboxylic acid transport,BP,e,71,3765,259,20413,0.0003614119868228,0.0100121210401638,carboxylic acid transport,1.33246228058e-06
+GO:0140375,immune receptor activity,MF,e,45,3765,147,20413,0.0003684919471351,0.010165655222415,immune receptor activity,0.0025421091556436
+GO:0055021,regulation of cardiac muscle tissue growth,BP,e,17,3765,40,20413,0.0003690649238997,0.010165655222415,regulation of cardiac muscle tissue growth,0.0282558590517058
+GO:0051216,cartilage development,BP,e,17,3765,40,20413,0.0003690649238997,0.010165655222415,cartilage development,7.1734989523341905e-09
+GO:0043268,positive regulation of potassium ion transport,BP,e,14,3765,30,20413,0.0003787588637062,0.010418664958298,positive regulation of potassium ion transport,0.0028208373580712
+GO:0032956,regulation of actin cytoskeleton organization,BP,e,83,3765,313,20413,0.0003974362729394,0.0108595487217963,regulation of actin cytoskeleton organization,0.0002645269467706
+GO:0006874,intracellular calcium ion homeostasis,BP,e,47,3765,157,20413,0.0004104606013593,0.0111411511306727,intracellular calcium ion homeostasis,0.0009322220862195
+GO:0061333,renal tubule morphogenesis,BP,e,9,3765,15,20413,0.0004162869674609,0.0112545762851949,renal tubule morphogenesis,0.0031183871378307
+GO:0032352,positive regulation of hormone metabolic process,BP,e,9,3765,15,20413,0.0004162869674609,0.0112545762851949,positive regulation of hormone metabolic process,0.0037251343401051
+GO:0120163,negative regulation of cold-induced thermogenesis,BP,e,19,3765,47,20413,0.0004370028907653,0.0117680686471141,negative regulation of cold-induced thermogenesis,0.0006364402124974
+GO:0001822,kidney development,BP,e,32,3765,95,20413,0.0004476627011239,0.012039306737708,kidney development,2.57358672342392e-08
+GO:0003208,cardiac ventricle morphogenesis,BP,e,12,3765,24,20413,0.0004505450466407,0.0121009431727511,cardiac ventricle morphogenesis,0.0013829983628651
+GO:0003382,epithelial cell morphogenesis,BP,e,10,3765,18,20413,0.0004607646296295,0.0123269576436016,epithelial cell morphogenesis,0.0046472284529389
+GO:0043116,negative regulation of vascular permeability,BP,e,10,3765,18,20413,0.0004607646296295,0.0123269576436016,negative regulation of vascular permeability,0.0030896856430631
+GO:0019432,triglyceride biosynthetic process,BP,e,10,3765,18,20413,0.0004607646296295,0.0123269576436016,triglyceride biosynthetic process,0.0073860420556263
+GO:0030010,establishment of cell polarity,BP,e,23,3765,62,20413,0.0004635196325232,0.0123844952142091,establishment of cell polarity,0.0001970941858511
+GO:0014015,positive regulation of gliogenesis,BP,e,18,3765,43,20413,0.0004679339932468,0.0124243606110145,positive regulation of gliogenesis,0.0366546848394664
+GO:0032967,positive regulation of collagen biosynthetic process,BP,e,11,3765,21,20413,0.0004680430582005,0.0124243606110145,positive regulation of collagen biosynthetic process,0.0052905154064967
+GO:0070696,transmembrane receptor protein serine/threonine kinase binding,MF,e,11,3765,21,20413,0.0004680430582005,0.0124243606110145,transmembrane receptor protein serine/threonine kinase binding,0.0071736745489691
+GO:0055023,positive regulation of cardiac muscle tissue growth,BP,e,11,3765,21,20413,0.0004680430582005,0.0124243606110145,positive regulation of cardiac muscle tissue growth,0.0185198236164839
+GO:0099623,regulation of cardiac muscle cell membrane repolarization,BP,e,11,3765,21,20413,0.0004680430582005,0.0124243606110145,regulation of cardiac muscle cell membrane repolarization,0.0200762761951287
+GO:0098659,inorganic cation import across plasma membrane,BP,e,34,3765,103,20413,0.0004728098170298,0.0125023117166348,inorganic cation import across plasma membrane,0.0005747268236368
+GO:0045664,regulation of neuron differentiation,BP,e,34,3765,103,20413,0.0004728098170298,0.0125023117166348,regulation of neuron differentiation,0.0007152672871818
+GO:0099587,inorganic ion import across plasma membrane,BP,e,34,3765,103,20413,0.0004728098170298,0.0125023117166348,inorganic ion import across plasma membrane,0.0005747268236368
+GO:0038024,cargo receptor activity,MF,e,28,3765,81,20413,0.000483854117842,0.0127286552463902,cargo receptor activity,0.0001313057367404
+GO:0060021,roof of mouth development,BP,e,15,3765,34,20413,0.0005003314921377,0.0130948828459494,roof of mouth development,0.0080288322319484
+GO:1901338,catecholamine binding,MF,e,7,3765,10,20413,0.0005129062933551,0.0133557670517506,catecholamine binding,0.0125373144465651
+GO:0035860,glial cell-derived neurotrophic factor receptor signaling pathway,BP,e,7,3765,10,20413,0.0005129062933551,0.0133557670517506,glial cell-derived neurotrophic factor receptor signaling pathway,0.0134614450621465
+GO:0090287,regulation of cellular response to growth factor stimulus,BP,e,71,3765,261,20413,0.0005117461122789,0.0133557670517506,regulation of cellular response to growth factor stimulus,0.0001228680753267
+GO:0002237,response to molecule of bacterial origin,BP,e,66,3765,239,20413,0.0005355731815596,0.013928301027541,response to molecule of bacterial origin,0.0104845161573527
+GO:0009636,response to toxic substance,BP,e,27,3765,77,20413,0.0005462532643063,0.014170086260039,response to toxic substance,0.0004527231906947
+GO:0031093,platelet alpha granule lumen,CC,e,24,3765,65,20413,0.0005518721492944,0.0142977445707863,platelet alpha granule lumen,0.0006479755741599
+GO:0045604,regulation of epidermal cell differentiation,BP,e,19,3765,48,20413,0.0005614868751578,0.0144918772451004,regulation of epidermal cell differentiation,0.0002007407060346
+GO:0072164,mesonephric tubule development,BP,e,14,3765,31,20413,0.0005741494999572,0.0147444181737129,mesonephric tubule development,0.000146954442718
+GO:0071300,cellular response to retinoic acid,BP,e,22,3765,59,20413,0.0005910935139485,0.0151605499140767,cellular response to retinoic acid,0.0003112363606291
+GO:0015081,sodium ion transmembrane transporter activity,MF,e,47,3765,158,20413,0.000599027427355,0.015325679236938,sodium ion transmembrane transporter activity,0.0002061785212106
+GO:0098656,monoatomic anion transmembrane transport,BP,e,40,3765,130,20413,0.0006033928137971,0.015367449025767,monoatomic anion transmembrane transport,0.0001157106350597
+GO:0006821,chloride transport,BP,e,36,3765,114,20413,0.0006329803281386,0.0160144023019078,chloride transport,0.0002664136189402
+GO:0090087,regulation of peptide transport,BP,e,49,3765,168,20413,0.0006339275706585,0.0160185914987751,regulation of peptide transport,0.0044318222965404
+GO:0015108,chloride transmembrane transporter activity,MF,e,34,3765,106,20413,0.0006359473799697,0.0160498394799515,chloride transmembrane transporter activity,0.0005724048047566
+GO:0090183,regulation of kidney development,BP,e,13,3765,28,20413,0.0006497941801759,0.0162989377409373,regulation of kidney development,0.0152862363107772
+GO:0061436,establishment of skin barrier,BP,e,13,3765,28,20413,0.0006497941801759,0.0162989377409373,establishment of skin barrier,0.0060094586932786
+GO:0032432,actin filament bundle,CC,e,31,3765,93,20413,0.0006533943135042,0.0163595321036316,actin filament bundle,0.0012653325088842
+GO:0008509,monoatomic anion transmembrane transporter activity,MF,e,41,3765,133,20413,0.0006623104766805,0.0165521080470911,monoatomic anion transmembrane transporter activity,0.0003280585892224
+GO:0030414,peptidase inhibitor activity,MF,e,39,3765,125,20413,0.0006812704035353,0.0169845187100353,peptidase inhibitor activity,0.0322490999891199
+GO:0034702,monoatomic ion channel complex,CC,e,70,3765,260,20413,0.0006875459308415,0.01712014430223,monoatomic ion channel complex,0.0014128142335944
+GO:0030595,leukocyte chemotaxis,BP,e,35,3765,109,20413,0.0006928421607203,0.0172310854364584,leukocyte chemotaxis,0.0002055168164069
+GO:0001569,branching involved in blood vessel morphogenesis,BP,e,8,3765,13,20413,0.0007043972001768,0.0174549115153871,branching involved in blood vessel morphogenesis,0.0095520545310926
+GO:2000846,regulation of corticosteroid hormone secretion,BP,e,8,3765,13,20413,0.0007043972001768,0.0174549115153871,regulation of corticosteroid hormone secretion,0.0077621752932541
+GO:0014009,glial cell proliferation,BP,e,8,3765,13,20413,0.0007043972001768,0.0174549115153871,glial cell proliferation,0.0005066121358681
+GO:0010594,regulation of endothelial cell migration,BP,e,50,3765,172,20413,0.0007091559807523,0.0175516105236211,regulation of endothelial cell migration,0.0113523777807052
+GO:0009712,catechol-containing compound metabolic process,BP,e,12,3765,25,20413,0.0007216980241595,0.0177335223130706,catechol-containing compound metabolic process,0.0306281090155257
+GO:0006584,catecholamine metabolic process,BP,e,12,3765,25,20413,0.0007216980241595,0.0177335223130706,catecholamine metabolic process,0.0306281090155257
+GO:0043266,regulation of potassium ion transport,BP,e,24,3765,67,20413,0.0007193461466043,0.0177335223130706,regulation of potassium ion transport,0.0011533447191353
+GO:0003707,nuclear steroid receptor activity,MF,e,12,3765,25,20413,0.0007216980241595,0.0177335223130706,nuclear steroid receptor activity,0.0061348847281554
+GO:0045778,positive regulation of ossification,BP,e,19,3765,49,20413,0.0007302004077278,0.0178995178894328,positive regulation of ossification,0.0016798842405866
+GO:0001763,morphogenesis of a branching structure,BP,e,22,3765,60,20413,0.0007321831139146,0.0179266768858447,morphogenesis of a branching structure,1.12821006717486e-08
+GO:0016101,diterpenoid metabolic process,BP,e,26,3765,74,20413,0.0007339472226753,0.0179484253392445,diterpenoid metabolic process,0.0035942882842915
+GO:0045667,regulation of osteoblast differentiation,BP,e,33,3765,102,20413,0.0007395634204342,0.0180427061606647,regulation of osteoblast differentiation,0.0026731720269424
+GO:2000027,regulation of animal organ morphogenesis,BP,e,17,3765,41,20413,0.0007551344055788,0.0183788234839995,regulation of animal organ morphogenesis,4.60459070454119e-06
+GO:0004879,nuclear receptor activity,MF,e,21,3765,56,20413,0.0007658937264944,0.0185306495124555,nuclear receptor activity,0.0029800121032475
+GO:1903276,regulation of sodium ion export across plasma membrane,BP,e,6,3765,8,20413,0.0007797407976549,0.0186891714171735,regulation of sodium ion export across plasma membrane,0.0182707723533548
+GO:0001706,endoderm formation,BP,e,6,3765,8,20413,0.0007797407976549,0.0186891714171735,endoderm formation,0.0237825224919988
+GO:0050927,positive regulation of positive chemotaxis,BP,e,11,3765,22,20413,0.000780653429615,0.0186891714171735,positive regulation of positive chemotaxis,0.0015334126511639
+GO:1903278,positive regulation of sodium ion export across plasma membrane,BP,e,6,3765,8,20413,0.0007797407976549,0.0186891714171735,positive regulation of sodium ion export across plasma membrane,0.0182707723533548
+GO:0090665,glycoprotein complex,CC,e,11,3765,22,20413,0.000780653429615,0.0186891714171735,glycoprotein complex,0.0034233783620657
+GO:0050727,regulation of inflammatory response,BP,e,93,3765,364,20413,0.0007948170405076,0.0189869558125998,regulation of inflammatory response,0.000667098414952
+GO:0010885,regulation of cholesterol storage,BP,e,9,3765,16,20413,0.0007958715192028,0.0189869558125998,regulation of cholesterol storage,0.0077621752932541
+GO:0090136,epithelial cell-cell adhesion,BP,e,10,3765,19,20413,0.0008123236534217,0.01933443510984,epithelial cell-cell adhesion,0.0134614450621465
+GO:0071379,cellular response to prostaglandin stimulus,BP,e,10,3765,19,20413,0.0008123236534217,0.01933443510984,cellular response to prostaglandin stimulus,0.0096133912750114
+GO:0022832,voltage-gated channel activity,MF,e,46,3765,156,20413,0.0008170243465567,0.0194012513719433,voltage-gated channel activity,0.0050480315002456
+GO:0050729,positive regulation of inflammatory response,BP,e,44,3765,147,20413,0.0008296651967479,0.0195879364941883,positive regulation of inflammatory response,0.0001157106350597
+GO:0045841,negative regulation of mitotic metaphase/anaphase transition,BP,e,14,3765,32,20413,0.0008487267190071,0.0199232034966943,negative regulation of mitotic metaphase/anaphase transition,0.0003836673146816
+GO:0033048,negative regulation of mitotic sister chromatid segregation,BP,e,14,3765,32,20413,0.0008487267190071,0.0199232034966943,negative regulation of mitotic sister chromatid segregation,0.0003836673146816
+GO:0033046,negative regulation of sister chromatid segregation,BP,e,14,3765,32,20413,0.0008487267190071,0.0199232034966943,negative regulation of sister chromatid segregation,0.0003836673146816
+GO:2000816,negative regulation of mitotic sister chromatid separation,BP,e,14,3765,32,20413,0.0008487267190071,0.0199232034966943,negative regulation of mitotic sister chromatid separation,0.0003836673146816
+GO:0002791,regulation of peptide secretion,BP,e,48,3765,166,20413,0.0008669554717848,0.0203228844525865,regulation of peptide secretion,0.0059635556394023
+GO:0090100,positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway,BP,e,30,3765,90,20413,0.0008822470471115,0.0206156085934508,positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway,0.000549511180084
+GO:0090092,regulation of transmembrane receptor protein serine/threonine kinase signaling pathway,BP,e,64,3765,235,20413,0.0009060667294777,0.0211240335462882,regulation of transmembrane receptor protein serine/threonine kinase signaling pathway,0.0009828347644433
+GO:1904950,negative regulation of establishment of protein localization,BP,e,32,3765,98,20413,0.0009178796192824,0.0213597556839244,negative regulation of establishment of protein localization,0.0178915356648334
+GO:0042476,odontogenesis,BP,e,21,3765,57,20413,0.0009327430854165,0.0215013543863226,odontogenesis,4.60459070454119e-06
+GO:0051924,regulation of calcium ion transport,BP,e,51,3765,179,20413,0.0009319791441729,0.0215013543863226,regulation of calcium ion transport,0.0181433643164608
+GO:0098531,ligand-modulated transcription factor activity,MF,e,21,3765,57,20413,0.0009327430854165,0.0215013543863226,ligand-modulated transcription factor activity,0.0037738882155373
+GO:0032890,regulation of organic acid transport,BP,e,21,3765,57,20413,0.0009327430854165,0.0215013543863226,regulation of organic acid transport,0.0005981582222131
+GO:0045211,postsynaptic membrane,CC,e,59,3765,213,20413,0.0009406527846721,0.0215624133291786,postsynaptic membrane,9.60149897828452e-05
+GO:0005796,Golgi lumen,CC,e,30,3765,91,20413,0.0009528750126696,0.0218181761280893,Golgi lumen,0.0078939455604668
+GO:0071173,spindle assembly checkpoint signaling,BP,e,13,3765,29,20413,0.0009802603274407,0.0222710364636842,spindle assembly checkpoint signaling,0.0002261305049275
+GO:0007094,mitotic spindle assembly checkpoint signaling,BP,e,13,3765,29,20413,0.0009802603274407,0.0222710364636842,mitotic spindle assembly checkpoint signaling,0.0002261305049275
+GO:0030282,bone mineralization,BP,e,13,3765,29,20413,0.0009802603274407,0.0222710364636842,bone mineralization,0.0001117954068254
+GO:0071174,mitotic spindle checkpoint signaling,BP,e,13,3765,29,20413,0.0009802603274407,0.0222710364636842,mitotic spindle checkpoint signaling,0.0002261305049275
+GO:0015276,ligand-gated monoatomic ion channel activity,MF,e,47,3765,161,20413,0.0009866013100357,0.0223655095647826,ligand-gated monoatomic ion channel activity,0.0113166383898379
+GO:0006820,monoatomic anion transport,BP,e,42,3765,141,20413,0.0009879071141129,0.022370365181787,monoatomic anion transport,0.0004363196154322
+GO:0010718,positive regulation of epithelial to mesenchymal transition,BP,e,20,3765,53,20413,0.0010124710834306,0.0227755981479074,positive regulation of epithelial to mesenchymal transition,0.0065368879012411
+GO:0070542,response to fatty acid,BP,e,20,3765,53,20413,0.0010124710834306,0.0227755981479074,response to fatty acid,0.0012543272642888
+GO:0045682,regulation of epidermis development,BP,e,20,3765,53,20413,0.0010124710834306,0.0227755981479074,regulation of epidermis development,0.0004773384242057
+GO:0045600,positive regulation of fat cell differentiation,BP,e,20,3765,53,20413,0.0010124710834306,0.0227755981479074,positive regulation of fat cell differentiation,0.0255517289905102
+GO:0036294,cellular response to decreased oxygen levels,BP,e,38,3765,124,20413,0.0010112655915591,0.0227755981479074,cellular response to decreased oxygen levels,0.0085252868952359
+GO:0016247,channel regulator activity,MF,e,47,3765,162,20413,0.0010337963849385,0.0232043694595241,channel regulator activity,0.002699509781624
+GO:0042277,peptide binding,MF,e,47,3765,162,20413,0.0010337963849385,0.0232043694595241,peptide binding,0.0374904813221753
+GO:0007584,response to nutrient,BP,e,40,3765,133,20413,0.0010444513090227,0.0234178782010969,response to nutrient,0.0002920471619467
+GO:0002062,chondrocyte differentiation,BP,e,16,3765,38,20413,0.0010471148600248,0.0234519397010818,chondrocyte differentiation,3.79366193676962e-06
+GO:0099106,ion channel regulator activity,MF,e,45,3765,153,20413,0.0010590733303482,0.0236938752825621,ion channel regulator activity,0.0009861555830475
+GO:0071314,cellular response to cocaine,BP,e,5,3765,6,20413,0.0010817079228031,0.0239389205853192,cellular response to cocaine,0.0182707723533548
+GO:0042481,regulation of odontogenesis,BP,e,5,3765,6,20413,0.0010817079228031,0.0239389205853192,regulation of odontogenesis,0.0002645269467706
+GO:0022834,ligand-gated channel activity,MF,e,47,3765,163,20413,0.0010989427745266,0.0242941038601667,ligand-gated channel activity,0.0133470644590852
+GO:0045606,positive regulation of epidermal cell differentiation,BP,e,12,3765,26,20413,0.0011167684595893,0.0245557253673439,positive regulation of epidermal cell differentiation,0.0002110925746084
+GO:0015698,inorganic anion transport,BP,e,43,3765,145,20413,0.0011311394320604,0.0247919148462196,inorganic anion transport,0.0001121552938892
+GO:1903169,regulation of calcium ion transmembrane transport,BP,e,36,3765,117,20413,0.0011398156667043,0.0249287539570685,regulation of calcium ion transmembrane transport,0.0155574158442371
+GO:0001934,positive regulation of protein phosphorylation,BP,e,57,3765,207,20413,0.0011429802034604,0.0249315831474059,positive regulation of protein phosphorylation,5.62241752959011e-05
+GO:0072088,nephron epithelium morphogenesis,BP,e,7,3765,11,20413,0.0011853211430435,0.0250937873805692,nephron epithelium morphogenesis,0.0039927874832095
+GO:0006563,L-serine metabolic process,BP,e,7,3765,11,20413,0.0011853211430435,0.0250937873805692,L-serine metabolic process,0.0037251343401051
+GO:0072078,nephron tubule morphogenesis,BP,e,7,3765,11,20413,0.0011853211430435,0.0250937873805692,nephron tubule morphogenesis,0.0028529467069271
+GO:0048484,enteric nervous system development,BP,e,7,3765,11,20413,0.0011853211430435,0.0250937873805692,enteric nervous system development,0.0064433781929987
+GO:0098868,bone growth,BP,e,7,3765,11,20413,0.0011853211430435,0.0250937873805692,bone growth,0.0097851466012114
+GO:0005890,sodium:potassium-exchanging ATPase complex,CC,e,7,3765,11,20413,0.0011853211430435,0.0250937873805692,sodium:potassium-exchanging ATPase complex,0.0354855290477247
+GO:0005614,interstitial matrix,CC,e,7,3765,11,20413,0.0011853211430435,0.0250937873805692,interstitial matrix,0.0026642080352663
+GO:0097646,calcitonin family receptor signaling pathway,BP,e,7,3765,11,20413,0.0011853211430435,0.0250937873805692,calcitonin family receptor signaling pathway,0.0036876485175695
+GO:0015670,carbon dioxide transport,BP,e,7,3765,11,20413,0.0011853211430435,0.0250937873805692,carbon dioxide transport,0.0060823890187275
+GO:0046873,metal ion transmembrane transporter activity,MF,e,101,3765,406,20413,0.0011875123258411,0.0251142312626032,metal ion transmembrane transporter activity,0.0004433401676696
+GO:0004896,cytokine receptor activity,MF,e,30,3765,93,20413,0.0011899418636051,0.0251396686709895,cytokine receptor activity,0.005052185698531
+GO:0050994,regulation of lipid catabolic process,BP,e,20,3765,54,20413,0.0012058516969277,0.0254495559476214,regulation of lipid catabolic process,0.0185198236164839
+GO:0090288,negative regulation of cellular response to growth factor stimulus,BP,e,27,3765,80,20413,0.0012087601557074,0.0254846932828315,negative regulation of cellular response to growth factor stimulus,0.0110373799524469
+GO:0048704,embryonic skeletal system morphogenesis,BP,e,14,3765,33,20413,0.0012260621962954,0.0256420381869496,embryonic skeletal system morphogenesis,5.42232997394022e-05
+GO:0050918,positive chemotaxis,BP,e,16,3765,39,20413,0.0012203116679719,0.0256420381869496,positive chemotaxis,0.0013829983628651
+GO:0007044,cell-substrate junction assembly,BP,e,14,3765,33,20413,0.0012260621962954,0.0256420381869496,cell-substrate junction assembly,0.0006974546921754
+GO:1905819,negative regulation of chromosome separation,BP,e,14,3765,33,20413,0.0012260621962954,0.0256420381869496,negative regulation of chromosome separation,0.0006483885442526
+GO:0045823,positive regulation of heart contraction,BP,e,14,3765,33,20413,0.0012260621962954,0.0256420381869496,positive regulation of heart contraction,0.0095520545310926
+GO:1902100,negative regulation of metaphase/anaphase transition of cell cycle,BP,e,14,3765,33,20413,0.0012260621962954,0.0256420381869496,negative regulation of metaphase/anaphase transition of cell cycle,0.0006483885442526
+GO:0005160,transforming growth factor beta receptor binding,MF,e,11,3765,23,20413,0.0012482607583503,0.0259701601227144,transforming growth factor beta receptor binding,0.0140648374222215
+GO:0050926,regulation of positive chemotaxis,BP,e,11,3765,23,20413,0.0012482607583503,0.0259701601227144,regulation of positive chemotaxis,0.0021641900549105
+GO:0032656,regulation of interleukin-13 production,BP,e,11,3765,23,20413,0.0012482607583503,0.0259701601227144,regulation of interleukin-13 production,0.0064102940271455
+GO:0045446,endothelial cell differentiation,BP,e,11,3765,23,20413,0.0012482607583503,0.0259701601227144,endothelial cell differentiation,7.77375100490316e-05
+GO:0007163,establishment or maintenance of cell polarity,BP,e,39,3765,129,20413,0.0012660761291354,0.0262874347663342,establishment or maintenance of cell polarity,0.0003112363606291
+GO:0071559,response to transforming growth factor beta,BP,e,22,3765,61,20413,0.0012821146457468,0.0265934974041394,response to transforming growth factor beta,0.0008003863573451
+GO:1902476,chloride transmembrane transport,BP,e,33,3765,104,20413,0.0013152650629988,0.02720703976464,chloride transmembrane transport,0.0003661946812241
+GO:0048469,cell maturation,BP,e,23,3765,66,20413,0.0013156773730912,0.02720703976464,cell maturation,3.97656704513292e-08
+GO:0097530,granulocyte migration,BP,e,23,3765,66,20413,0.0013156773730912,0.02720703976464,granulocyte migration,0.0005401078147959
+GO:0038084,vascular endothelial growth factor signaling pathway,BP,e,10,3765,20,20413,0.0013572987507086,0.0279830214268334,vascular endothelial growth factor signaling pathway,0.0004004424294966
+GO:0072207,metanephric epithelium development,BP,e,8,3765,14,20413,0.0013780358771408,0.0282966825954386,metanephric epithelium development,0.0124675082150616
+GO:0045916,negative regulation of complement activation,BP,e,8,3765,14,20413,0.0013780358771408,0.0282966825954386,negative regulation of complement activation,0.0037251343401051
+GO:0045236,CXCR chemokine receptor binding,MF,e,8,3765,14,20413,0.0013780358771408,0.0282966825954386,CXCR chemokine receptor binding,0.0251083604541573
+GO:0032526,response to retinoic acid,BP,e,29,3765,89,20413,0.0013877742236237,0.0284681252900109,response to retinoic acid,0.0006974546921754
+GO:0099550,"trans-synaptic signaling, modulating synaptic transmission",BP,e,9,3765,17,20413,0.0014152436352528,0.0288582963355581,"trans-synaptic signaling, modulating synaptic transmission",0.0325804221313781
+GO:0002921,negative regulation of humoral immune response,BP,e,9,3765,17,20413,0.0014152436352528,0.0288582963355581,negative regulation of humoral immune response,0.0053388551850893
+GO:0036376,sodium ion export across plasma membrane,BP,e,9,3765,17,20413,0.0014152436352528,0.0288582963355581,sodium ion export across plasma membrane,0.0064102940271455
+GO:0110110,positive regulation of animal organ morphogenesis,BP,e,9,3765,17,20413,0.0014152436352528,0.0288582963355581,positive regulation of animal organ morphogenesis,0.0003661946812241
+GO:0033623,regulation of integrin activation,BP,e,9,3765,17,20413,0.0014152436352528,0.0288582963355581,regulation of integrin activation,0.0035379511847886
+GO:0034703,cation channel complex,CC,e,56,3765,204,20413,0.0014273369889049,0.0290470873025124,cation channel complex,0.0046420561493399
+GO:0031577,spindle checkpoint signaling,BP,e,13,3765,30,20413,0.0014402320350024,0.029164698708799,spindle checkpoint signaling,0.0003000456996003
+GO:0060306,regulation of membrane repolarization,BP,e,13,3765,30,20413,0.0014402320350024,0.029164698708799,regulation of membrane repolarization,0.0328335910348254
+GO:0030509,BMP signaling pathway,BP,e,20,3765,55,20413,0.0014683538478068,0.0296755181490194,BMP signaling pathway,0.0002169286040765
+GO:0051489,regulation of filopodium assembly,BP,e,17,3765,44,20413,0.0014792921216308,0.0298083908048968,regulation of filopodium assembly,0.0044318222965404
+GO:0046850,regulation of bone remodeling,BP,e,17,3765,44,20413,0.0014792921216308,0.0298083908048968,regulation of bone remodeling,0.0193915198792869
+GO:0031670,cellular response to nutrient,BP,e,16,3765,40,20413,0.0014904043490728,0.029973362439205,cellular response to nutrient,0.0026731720269424
+GO:0140272,exogenous protein binding,MF,e,16,3765,40,20413,0.0014904043490728,0.029973362439205,exogenous protein binding,0.0296043134494389
+GO:0046718,symbiont entry into host cell,BP,e,24,3765,69,20413,0.001494212380657,0.0299910816031386,symbiont entry into host cell,0.0352756926190348
+GO:0045471,response to ethanol,BP,e,33,3765,106,20413,0.0015190478239334,0.0303409815359348,response to ethanol,0.0008695846259714
+GO:0006816,calcium ion transport,BP,e,62,3765,231,20413,0.0015266277689756,0.0304626902333185,calcium ion transport,3.58794450986856e-05
+GO:0015079,potassium ion transmembrane transporter activity,MF,e,42,3765,143,20413,0.0015405879800697,0.030642542764159,potassium ion transmembrane transporter activity,0.0058646439631117
+GO:0032869,cellular response to insulin stimulus,BP,e,29,3765,90,20413,0.0015416220948542,0.030642542764159,cellular response to insulin stimulus,0.0126334372158677
+GO:0043523,regulation of neuron apoptotic process,BP,e,52,3765,186,20413,0.001595874429837,0.0316594914720718,regulation of neuron apoptotic process,0.0017440404589076
+GO:0005244,voltage-gated monoatomic ion channel activity,MF,e,44,3765,153,20413,0.0016204339771384,0.0321156223341379,voltage-gated monoatomic ion channel activity,0.0064682028909324
+GO:0016328,lateral plasma membrane,CC,e,24,3765,70,20413,0.0016484580630562,0.0325765198516979,lateral plasma membrane,0.0019705487312052
+GO:0001654,eye development,BP,e,24,3765,70,20413,0.0016484580630562,0.0325765198516979,eye development,6.27591234743432e-06
+GO:0090050,positive regulation of cell migration involved in sprouting angiogenesis,BP,e,12,3765,27,20413,0.0016754958911108,0.0330153243235914,positive regulation of cell migration involved in sprouting angiogenesis,0.0352451404040769
+GO:0070830,bicellular tight junction assembly,BP,e,12,3765,27,20413,0.0016754958911108,0.0330153243235914,bicellular tight junction assembly,0.0008695846259714
+GO:0001657,ureteric bud development,BP,e,12,3765,27,20413,0.0016754958911108,0.0330153243235914,ureteric bud development,0.0001223525568556
+GO:0032965,regulation of collagen biosynthetic process,BP,e,15,3765,36,20413,0.0016809373061438,0.03305897141536,regulation of collagen biosynthetic process,0.0092251556776169
+GO:1902305,regulation of sodium ion transmembrane transport,BP,e,15,3765,36,20413,0.0016809373061438,0.03305897141536,regulation of sodium ion transmembrane transport,0.0092251556776169
+GO:0050921,positive regulation of chemotaxis,BP,e,38,3765,127,20413,0.0017476666806446,0.0343383828249762,positive regulation of chemotaxis,0.0003567613973097
+GO:0002028,regulation of sodium ion transport,BP,e,21,3765,58,20413,0.0017648025650069,0.0344577744827624,regulation of sodium ion transport,0.0060495430444493
+GO:0009308,amine metabolic process,BP,e,21,3765,58,20413,0.0017648025650069,0.0344577744827624,amine metabolic process,0.0058012733001656
+GO:0030534,adult behavior,BP,e,21,3765,58,20413,0.0017648025650069,0.0344577744827624,adult behavior,0.0029910075657137
+GO:1901681,sulfur compound binding,MF,e,58,3765,214,20413,0.0018175619572696,0.0353054949671354,sulfur compound binding,0.0025421091556436
+GO:0045833,negative regulation of lipid metabolic process,BP,e,28,3765,86,20413,0.0018473422200405,0.0358160682263869,negative regulation of lipid metabolic process,0.0413279597282747
+GO:1901655,cellular response to ketone,BP,e,28,3765,86,20413,0.0018473422200405,0.0358160682263869,cellular response to ketone,0.0344111977137922
+GO:0005261,monoatomic cation channel activity,MF,e,76,3765,295,20413,0.001850062410686,0.0358349045200272,monoatomic cation channel activity,0.0063424011939911
+GO:0001523,retinoid metabolic process,BP,e,24,3765,71,20413,0.0018671575821491,0.0361318794437987,retinoid metabolic process,0.0077304350522682
+GO:0022617,extracellular matrix disassembly,BP,e,16,3765,41,20413,0.0018746783158468,0.0362431912515567,extracellular matrix disassembly,0.0030956774318065
+GO:0042327,positive regulation of phosphorylation,BP,e,61,3765,228,20413,0.0018964096297232,0.0365942773464393,positive regulation of phosphorylation,8.62317194388198e-05
+GO:0030315,T-tubule,CC,e,19,3765,52,20413,0.0018949819622943,0.0365942773464393,T-tubule,0.0006479755741599
+GO:0001755,neural crest cell migration,BP,e,11,3765,24,20413,0.0019232509759507,0.0370424645208262,neural crest cell migration,0.0152862363107772
+GO:0090497,mesenchymal cell migration,BP,e,11,3765,24,20413,0.0019232509759507,0.0370424645208262,mesenchymal cell migration,0.0045981938046014
+GO:0070365,hepatocyte differentiation,BP,e,6,3765,9,20413,0.0019727924522475,0.0375294181449584,hepatocyte differentiation,0.0231518055159684
+GO:0019215,intermediate filament binding,MF,e,6,3765,9,20413,0.0019727924522475,0.0375294181449584,intermediate filament binding,0.0322490999891199
+GO:0090493,catecholamine uptake,BP,e,6,3765,9,20413,0.0019727924522475,0.0375294181449584,catecholamine uptake,0.0077621752932541
+GO:0001946,lymphangiogenesis,BP,e,6,3765,9,20413,0.0019727924522475,0.0375294181449584,lymphangiogenesis,0.0007264074956201
+GO:0097021,lymphocyte migration into lymphoid organs,BP,e,6,3765,9,20413,0.0019727924522475,0.0375294181449584,lymphocyte migration into lymphoid organs,0.0112171853541866
+GO:0090494,dopamine uptake,BP,e,6,3765,9,20413,0.0019727924522475,0.0375294181449584,dopamine uptake,0.0053388551850893
+GO:0019694,alkanesulfonate metabolic process,BP,e,6,3765,9,20413,0.0019727924522475,0.0375294181449584,alkanesulfonate metabolic process,0.0018815013485502
+GO:0060004,reflex,BP,e,6,3765,9,20413,0.0019727924522475,0.0375294181449584,reflex,0.0090629004909918
+GO:0019530,taurine metabolic process,BP,e,6,3765,9,20413,0.0019727924522475,0.0375294181449584,taurine metabolic process,0.0018815013485502
+GO:0006939,smooth muscle contraction,BP,e,15,3765,37,20413,0.0019741722910391,0.0375294181449584,smooth muscle contraction,0.0001057360282692
+GO:0035116,embryonic hindlimb morphogenesis,BP,e,6,3765,9,20413,0.0019727924522475,0.0375294181449584,embryonic hindlimb morphogenesis,0.0057813841478174
+GO:0010887,negative regulation of cholesterol storage,BP,e,6,3765,9,20413,0.0019727924522475,0.0375294181449584,negative regulation of cholesterol storage,0.0182707723533548
+GO:1903596,regulation of gap junction assembly,BP,e,6,3765,9,20413,0.0019727924522475,0.0375294181449584,regulation of gap junction assembly,0.0112171853541866
+GO:0008277,regulation of G protein-coupled receptor signaling pathway,BP,e,41,3765,140,20413,0.001999194410519,0.0379205734174214,regulation of G protein-coupled receptor signaling pathway,0.0051501875847178
+GO:0097306,cellular response to alcohol,BP,e,28,3765,87,20413,0.0020174182725663,0.0381621643348278,cellular response to alcohol,0.0189331352632309
+GO:0016051,carbohydrate biosynthetic process,BP,e,30,3765,95,20413,0.0020186300755845,0.0381621643348278,carbohydrate biosynthetic process,0.0003000456996003
+GO:0030057,desmosome,CC,e,13,3765,31,20413,0.0020657360880906,0.038837733626827,desmosome,0.0093098597789506
+GO:0045937,positive regulation of phosphate metabolic process,BP,e,62,3765,232,20413,0.0020595934831361,0.038837733626827,positive regulation of phosphate metabolic process,5.43059628910981e-06
+GO:0045684,positive regulation of epidermis development,BP,e,13,3765,31,20413,0.0020657360880906,0.038837733626827,positive regulation of epidermis development,0.0003661946812241
+GO:0045429,positive regulation of nitric oxide biosynthetic process,BP,e,13,3765,31,20413,0.0020657360880906,0.038837733626827,positive regulation of nitric oxide biosynthetic process,0.0387205578152921
+GO:1904427,positive regulation of calcium ion transmembrane transport,BP,e,18,3765,48,20413,0.0021385765403058,0.0401335613923873,positive regulation of calcium ion transmembrane transport,0.0203356936375985
+GO:0050431,transforming growth factor beta binding,MF,e,10,3765,21,20413,0.0021657130166251,0.0405314674426475,transforming growth factor beta binding,0.0023860357560336
+GO:0072132,mesenchyme morphogenesis,BP,e,10,3765,21,20413,0.0021657130166251,0.0405314674426475,mesenchyme morphogenesis,0.0001986668038956
+GO:0043542,endothelial cell migration,BP,e,23,3765,67,20413,0.0022223837485102,0.0415162353311043,endothelial cell migration,0.0004990106228297
+GO:1901890,positive regulation of cell junction assembly,BP,e,26,3765,80,20413,0.002229836966789,0.0415796623843573,positive regulation of cell junction assembly,0.0002695569478987
+GO:0009410,response to xenobiotic stimulus,BP,e,54,3765,198,20413,0.0022420300431528,0.041759502246027,response to xenobiotic stimulus,3.2794564133322e-05
+GO:0002027,regulation of heart rate,BP,e,28,3765,88,20413,0.0022476324099628,0.041759502246027,regulation of heart rate,0.0013001916158021
+GO:0034308,primary alcohol metabolic process,BP,e,28,3765,88,20413,0.0022476324099628,0.041759502246027,primary alcohol metabolic process,0.0035942882842915
+GO:0005253,monoatomic anion channel activity,MF,e,28,3765,88,20413,0.0022476324099628,0.041759502246027,monoatomic anion channel activity,0.0025421091556436
+GO:0022843,voltage-gated monoatomic cation channel activity,MF,e,37,3765,124,20413,0.0022809863248556,0.0422642429975284,voltage-gated monoatomic cation channel activity,0.0125373144465651
+GO:0019229,regulation of vasoconstriction,BP,e,19,3765,53,20413,0.0023048457361282,0.0425748916751572,regulation of vasoconstriction,0.0060823890187275
+GO:2000177,regulation of neural precursor cell proliferation,BP,e,19,3765,53,20413,0.0023048457361282,0.0425748916751572,regulation of neural precursor cell proliferation,0.0008795711386362
+GO:0006898,receptor-mediated endocytosis,BP,e,46,3765,164,20413,0.0023239525789234,0.0428280217624804,receptor-mediated endocytosis,0.0060495430444493
+GO:2000831,regulation of steroid hormone secretion,BP,e,9,3765,18,20413,0.002369722640876,0.0433595768566722,regulation of steroid hormone secretion,0.0158549910601803
+GO:0001890,placenta development,BP,e,9,3765,18,20413,0.002369722640876,0.0433595768566722,placenta development,0.0002169286040765
+GO:0060045,positive regulation of cardiac muscle cell proliferation,BP,e,9,3765,18,20413,0.002369722640876,0.0433595768566722,positive regulation of cardiac muscle cell proliferation,0.0315165921162861
+GO:0036122,BMP binding,MF,e,9,3765,18,20413,0.002369722640876,0.0433595768566722,BMP binding,0.0289692897454863
+GO:0030228,lipoprotein particle receptor activity,MF,e,9,3765,18,20413,0.002369722640876,0.0433595768566722,lipoprotein particle receptor activity,0.0106626449258905
+GO:0003203,endocardial cushion morphogenesis,BP,e,9,3765,18,20413,0.002369722640876,0.0433595768566722,endocardial cushion morphogenesis,0.0059635556394023
+GO:0044331,cell-cell adhesion mediated by cadherin,BP,e,15,3765,38,20413,0.00241832609329,0.0435489952810132,cell-cell adhesion mediated by cadherin,0.0006364402124974
+GO:0051784,negative regulation of nuclear division,BP,e,16,3765,42,20413,0.0023939441859411,0.0435489952810132,negative regulation of nuclear division,0.0006364402124974
+GO:0010883,regulation of lipid storage,BP,e,15,3765,38,20413,0.00241832609329,0.0435489952810132,regulation of lipid storage,0.0021641900549105
+GO:0120254,olefinic compound metabolic process,BP,e,39,3765,134,20413,0.0024049532180419,0.0435489952810132,olefinic compound metabolic process,5.33660490004815e-05
+GO:0097493,structural molecule activity conferring elasticity,MF,e,7,3765,12,20413,0.0023921479280679,0.0435489952810132,structural molecule activity conferring elasticity,0.0125373144465651
+GO:0070700,BMP receptor binding,MF,e,7,3765,12,20413,0.0023921479280679,0.0435489952810132,BMP receptor binding,0.0199467670774364
+GO:0001618,virus receptor activity,MF,e,15,3765,38,20413,0.00241832609329,0.0435489952810132,virus receptor activity,0.0439277244398832
+GO:0045839,negative regulation of mitotic nuclear division,BP,e,15,3765,38,20413,0.00241832609329,0.0435489952810132,negative regulation of mitotic nuclear division,0.0008145321176697
+GO:0072677,eosinophil migration,BP,e,7,3765,12,20413,0.0023921479280679,0.0435489952810132,eosinophil migration,0.0158549910601803
+GO:0048245,eosinophil chemotaxis,BP,e,7,3765,12,20413,0.0023921479280679,0.0435489952810132,eosinophil chemotaxis,0.0436262669919548
+GO:0002065,columnar/cuboidal epithelial cell differentiation,BP,e,12,3765,28,20413,0.002444772174312,0.0439479966387517,columnar/cuboidal epithelial cell differentiation,0.0007379857392946
+GO:0044703,multi-organism reproductive process,BP,e,23,3765,68,20413,0.0024649161513828,0.0442712766786047,multi-organism reproductive process,0.0001121552938892
+GO:0003094,glomerular filtration,BP,e,8,3765,15,20413,0.0024771774882035,0.0443360683543722,glomerular filtration,0.0003075665547568
+GO:0048385,regulation of retinoic acid receptor signaling pathway,BP,e,8,3765,15,20413,0.0024771774882035,0.0443360683543722,regulation of retinoic acid receptor signaling pathway,0.0035379511847886
+GO:0043034,costamere,CC,e,8,3765,15,20413,0.0024771774882035,0.0443360683543722,costamere,0.0111798730427076
+GO:0045428,regulation of nitric oxide biosynthetic process,BP,e,18,3765,49,20413,0.0024877731810924,0.0443707013055938,regulation of nitric oxide biosynthetic process,0.0185198236164839
+GO:0005249,voltage-gated potassium channel activity,MF,e,27,3765,83,20413,0.002487339767133,0.0443707013055938,voltage-gated potassium channel activity,0.0206133789526654
+GO:0022408,negative regulation of cell-cell adhesion,BP,e,47,3765,168,20413,0.0025463302328849,0.0453756047500092,negative regulation of cell-cell adhesion,0.0036406507221933
+GO:0070167,regulation of biomineral tissue development,BP,e,27,3765,84,20413,0.0026680206365442,0.0473427680040468,regulation of biomineral tissue development,0.0035942882842915
+GO:0071621,granulocyte chemotaxis,BP,e,20,3765,56,20413,0.0026682719486982,0.0473427680040468,granulocyte chemotaxis,0.0023591537950333
+GO:0070293,renal absorption,BP,e,14,3765,34,20413,0.002704081727203,0.0476891108739869,renal absorption,0.0035942882842915
+GO:0071453,cellular response to oxygen levels,BP,e,40,3765,138,20413,0.0027021522945648,0.0476891108739869,cellular response to oxygen levels,0.0139228959885114
+GO:0003180,aortic valve morphogenesis,BP,e,14,3765,34,20413,0.002704081727203,0.0476891108739869,aortic valve morphogenesis,0.0036406507221933
+GO:0051985,negative regulation of chromosome segregation,BP,e,14,3765,34,20413,0.002704081727203,0.0476891108739869,negative regulation of chromosome segregation,0.0008181141710697
+GO:0048511,rhythmic process,BP,e,45,3765,159,20413,0.0027014711297755,0.0476891108739869,rhythmic process,1.24193036925883e-05
+GO:1903524,positive regulation of blood circulation,BP,e,14,3765,34,20413,0.002704081727203,0.0476891108739869,positive regulation of blood circulation,0.0118282637195132
+GO:0090068,positive regulation of cell cycle process,BP,e,58,3765,218,20413,0.0027317155978657,0.0480466410177956,positive regulation of cell cycle process,0.0056306988674578
+GO:0051051,negative regulation of transport,BP,e,84,3765,336,20413,0.0027986370244539,0.0491138578937957,negative regulation of transport,0.0159451786691803
+GO:0043279,response to alkaloid,BP,e,23,3765,69,20413,0.0027992478416997,0.0491138578937957,response to alkaloid,0.006496053590181
