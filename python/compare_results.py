@@ -3,18 +3,18 @@ import pandas as pd
 #DATASET = "demo" # to run the demo
 DATASET = "GSE103001" #to run the analysis
 
-# Load GOATools results
-python_results = pd.read_csv(f"results/{DATASET}/goatools_enrichment_results.csv")
+# Load GOATOOLS results
+python_results = pd.read_csv(f"results/{DATASET}/GOATOOLS_enrichment_results.csv")
 # Load clusterProfiler results
 r_results = pd.read_csv(f"results/{DATASET}/R_GO_enrichment.csv")
 # Print shape of results
-print("GOATools results:", python_results.shape)
+print("GOATOOLS results:", python_results.shape)
 print("clusterProfiler results:", r_results.shape)
 
 # Make sets out of the python and r GO ID's
 python_go_ids = set(python_results["GO_ID"])
 r_go_ids = set(r_results["ID"])
-print ("\nUnique GOATools terms:")
+print ("\nUnique GOATOOLS terms:")
 print(len(python_go_ids))
 print("\nUnique clusterProfiler terms:")
 print(len(r_go_ids))
@@ -28,7 +28,7 @@ print(len(shared_go_ids))
 python_only = python_go_ids - r_go_ids
 #Find terms found using r only
 r_only = r_go_ids - python_go_ids
-print("\nGOATools-only terms:")
+print("\nGOATOOLS-only terms:")
 print(len(python_only))
 print("\nclusterProfiler-only terms")
 print(len(r_only))
@@ -37,12 +37,12 @@ print(len(r_only))
 python_overlap_pct = (len(shared_go_ids)/len(python_go_ids)*100)
 r_overlap_pct = (len(shared_go_ids)/len(r_go_ids)*100)
 
-print("\nPercentage of GOATools terms also found by clusterProfiler",
+print("\nPercentage of GOATOOLS terms also found by clusterProfiler",
       round(python_overlap_pct,2),"%")
-print("\nPercentage of clusterProfiler terms also found by GOATools:",
+print("\nPercentage of clusterProfiler terms also found by GOATOOLS:",
       round (r_overlap_pct, 2),"%")
 
-#clusterProfiler returned more items, hence the smaller percentage compared to the GOATools perspective
+#clusterProfiler returned more items, hence the smaller percentage compared to the GOATOOLS perspective
 
 #Create a table
 shared_python = python_results[python_results["GO_ID"].isin(shared_go_ids)].copy()
@@ -90,7 +90,7 @@ print("\nShared comparison table saved.")
 
 #Save GO terms specific to the package
 python_only_df = python_results[python_results["GO_ID"].isin(python_only)]
-python_only_df.to_csv(f"results/{DATASET}/goatools_only_terms.csv", index=False)
+python_only_df.to_csv(f"results/{DATASET}/GOATOOLS_only_terms.csv", index=False)
 r_only_df = r_results[r_results["ID"].isin(r_only)]
 r_only_df.to_csv(f"results/{DATASET}/clusterProfiler_only_terms.csv", index=False)
 
@@ -99,7 +99,7 @@ import matplotlib.pyplot as plt
 
 comparison_counts = {
     "Shared": len(shared_go_ids),
-    "GOATools only": len(python_only),
+    "GOATOOLS only": len(python_only),
     "clusterProfiler only": len(r_only)
 }
 
